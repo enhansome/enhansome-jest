@@ -1,0 +1,2021 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@emotion/jest",
+          "description": "Jest matcher for testing Emotion components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-06T07:42:22Z",
+            "owner": "emotion-js",
+            "repo": "emotion",
+            "stars": 18017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@testing-library/jest-dom",
+          "description": "Jest matchers to test the state of the DOM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T23:42:19Z",
+            "owner": "testing-library",
+            "repo": "jest-dom",
+            "stars": 4594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "expect-puppeteer",
+          "description": "Collection of matchers for Jest & Puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-26T23:40:00Z",
+            "owner": "argos-ci",
+            "repo": "jest-puppeteer",
+            "stars": 3546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-extended",
+          "description": "Adds additional matchers to core API making it easy to test everything.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:42:13Z",
+            "owner": "jest-community",
+            "repo": "jest-extended",
+            "stars": 2350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-axe",
+          "description": "Jest matcher for axe for testing accessibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T08:20:16Z",
+            "owner": "NickColley",
+            "repo": "jest-axe",
+            "stars": 1111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-enzyme",
+          "description": "An assertion library for enzyme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-07T04:14:28Z",
+            "owner": "enzymejs",
+            "repo": "enzyme-matchers",
+            "stars": 885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@testing-library/jest-native",
+          "description": "Jest matchers to test the state of React Native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-05T10:25:56Z",
+            "owner": "testing-library",
+            "repo": "jest-native",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@traceloop/jest-opentelemetry",
+          "description": "Collection of matchers and runner for end to end tests with Jest & OpenTelemetry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-16T18:07:22Z",
+            "owner": "traceloop",
+            "repo": "jest-opentelemetry",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-openapi",
+          "description": "Jest matchers for asserting that HTTP responses satisfy an OpenAPI spec.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T14:59:50Z",
+            "owner": "openapi-library",
+            "repo": "OpenAPIValidators",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "expect-more",
+          "description": "A huge library of test matchers for a range of common use-cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-16T23:22:04Z",
+            "owner": "JamieMason",
+            "repo": "expect-more",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-json-schema",
+          "description": "JSON schema matcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-13T07:46:27Z",
+            "owner": "americanexpress",
+            "repo": "jest-json-schema",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-generator",
+          "description": "Jest matcher for testing generator function.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-08T05:10:45Z",
+            "owner": "doniyor2109",
+            "repo": "jest-generator",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-json",
+          "description": "Jest matchers to assert on JSON strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-09T15:21:48Z",
+            "owner": "duailibe",
+            "repo": "jest-json",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-shell-matchers",
+          "description": "Test shell scripts while mocking specific commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-12T00:40:19Z",
+            "owner": "raingerber",
+            "repo": "jest-shell-matchers",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Matchers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vscode-jest",
+          "description": "Works out of the box Jest based testing in VS Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-20T00:17:15Z",
+            "owner": "jest-community",
+            "repo": "vscode-jest",
+            "stars": 2890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wallaby",
+          "description": "The pinnacle of the idea of a test runner integrated into an editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-01T05:30:42Z",
+            "owner": "wallabyjs",
+            "repo": "public",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vscode-jest-runner",
+          "description": "Simple way to run or debug one or more tests from context menu, codelens or command plalette.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T06:15:42Z",
+            "owner": "firsttris",
+            "repo": "vscode-jest-runner",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jester",
+          "description": "A Neovim plugin to easily run and debug Jest tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-15T08:47:51Z",
+            "owner": "David-Kunz",
+            "repo": "jester",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coc-jest",
+          "description": "Jest plugin for coc.nvim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-19T04:46:23Z",
+            "owner": "neoclide",
+            "repo": "coc-jest",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "IDE"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eslint-plugin-jest",
+          "description": "ESLint plugin for Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T05:51:12Z",
+            "owner": "jest-community",
+            "repo": "eslint-plugin-jest",
+            "stars": 1169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eslint-plugin-jest-dom",
+          "description": "ESLint plugin to follow best practices and anticipate common mistakes when writing tests with @testing-library/jest-dom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T19:18:38Z",
+            "owner": "testing-library",
+            "repo": "eslint-plugin-jest-dom",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eslint-plugin-jest-formatting",
+          "description": "ESLint plugin that aims to provide formatting rules (auto-fixable where possible) to ensure consistency and readability in jest test suites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-21T17:46:55Z",
+            "owner": "dangreenisrael",
+            "repo": "eslint-plugin-jest-formatting",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eslint-plugin-jest-extended",
+          "description": "ESLint plugin for jest-extended.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:13:58Z",
+            "owner": "jest-community",
+            "repo": "eslint-plugin-jest-extended",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Linting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jest-runner-eslint",
+          "description": "ESLint runner for Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T23:38:39Z",
+            "owner": "jest-community",
+            "repo": "jest-runner-eslint",
+            "stars": 481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-light-runner",
+          "description": "Runner that runs tests directly in bare Node.js, without virtualizing the environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T00:23:27Z",
+            "owner": "nicolo-ribaudo",
+            "repo": "jest-light-runner",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-runner-tsc",
+          "description": "A Jest runner for the TypeScript compiler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-18T22:04:47Z",
+            "owner": "azz",
+            "repo": "jest-runner-tsc",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-runner-groups",
+          "description": "A runner that lets to group tests and to run groups separately.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-08-31T21:08:42Z",
+            "owner": "eugene-manuilov",
+            "repo": "jest-runner-groups",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-runner-prettier",
+          "description": "Prettier runner for Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T22:38:34Z",
+            "owner": "keplersj",
+            "repo": "jest-runner-prettier",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-runner-tsd",
+          "description": "Runner for running TypeScript type tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T21:45:49Z",
+            "owner": "jest-community",
+            "repo": "jest-runner-tsd",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-runner-mocha",
+          "description": "Mocha runner for Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-02-04T12:09:18Z",
+            "owner": "rogeliog",
+            "repo": "jest-runner-mocha",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-electron-runner",
+          "description": "Electron runner for Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-18T10:37:34Z",
+            "owner": "d4rkr00t",
+            "repo": "jest-electron-runner",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-runner-stylelint",
+          "description": "Stylelint runner for Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-18T02:21:26Z",
+            "owner": "keplersj",
+            "repo": "jest-runner-stylelint",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Runners"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jest-html-reporters",
+          "description": "A Jest test results processor for generating a summary in HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T03:47:58Z",
+            "owner": "Hazyzh",
+            "repo": "jest-html-reporters",
+            "stars": 539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-junit",
+          "description": "A JUnit format reporter for Jest which can integrate with CI systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-08T12:47:06Z",
+            "owner": "jest-community",
+            "repo": "jest-junit",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-html-reporter",
+          "description": "A Jest test results processor for generating a summary in HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-28T18:35:45Z",
+            "owner": "Hargne",
+            "repo": "jest-html-reporter",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-stare",
+          "description": "Configurable HTML reporter for filtering, side-by-side snapshot diffs, API, and simple CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T05:06:37Z",
+            "owner": "dkelosky",
+            "repo": "jest-stare",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-silent-reporter",
+          "description": "A silent reporter for Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-22T14:10:46Z",
+            "owner": "rickhanlonii",
+            "repo": "jest-silent-reporter",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "testomatio-jest-reporter",
+          "description": "Allows to analyze Jest autotests, collect test metadata and report them to the testomat.io TCM system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T22:24:39Z",
+            "owner": "testomatio",
+            "repo": "reporter",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-allure",
+          "description": "Add more power to your tests using Jest-Allure with very concise representation of what has been tested in a neat web report form.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-07T09:36:56Z",
+            "owner": "zaqqaz",
+            "repo": "jest-allure",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-github-reporter",
+          "description": "Report jest test errors directly in pull requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T00:37:24Z",
+            "owner": "hipstersmoothie",
+            "repo": "jest-github-reporter",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-dashboard",
+          "description": "Command line dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T12:27:35Z",
+            "owner": "theoutlander",
+            "repo": "jest-dashboard",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-slow-test-reporter",
+          "description": "Prints the slowest tests in your codebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-30T16:25:01Z",
+            "owner": "jodonnell",
+            "repo": "jest-slow-test-reporter",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "echoed",
+          "description": "Makes tests observable by reporting OpenTelemetry data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-09T13:09:51Z",
+            "owner": "mrasu",
+            "repo": "echoed",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-standard-reporter",
+          "description": "Reporter that uses stdout for messages and stderr for errors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T23:31:48Z",
+            "owner": "chrisgalvan",
+            "repo": "jest-standard-reporter",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-performance-reporter",
+          "description": "Identify slow tests and create a report including execution times.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-28T16:23:28Z",
+            "owner": "sholzmayer",
+            "repo": "jest-performance-reporter",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-actions-jest-reporter",
+          "description": "Reports jest test results using Github Actions groups, allowing for an easy navigation of the test logs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-11T00:07:04Z",
+            "owner": "MatteoH2O1999",
+            "repo": "github-actions-jest-reporter",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-progress-bar-reporter",
+          "description": "Simple reporter with a little progressbar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T04:32:12Z",
+            "owner": "pierreroth64",
+            "repo": "jest-progress-bar-reporter",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-skipped-reporter",
+          "description": "Report skipped tests in Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-23T14:04:06Z",
+            "owner": "rickhanlonii",
+            "repo": "jest-skipped-reporter",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-simple-dot-reporter",
+          "description": "A simple dot reporter - one dot per each test.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T14:51:25Z",
+            "owner": "jodonnell",
+            "repo": "jest-simple-dot-reporter",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "testrail-jest-reporter",
+          "description": "Report jest test results to TestRail.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-09T09:23:45Z",
+            "owner": "AntonChaukin",
+            "repo": "testrail-jest-reporter",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-console-group-reporter",
+          "description": "Automatically groups console messages, allows filtering, and provides flexible display configuration options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-25T22:09:04Z",
+            "owner": "Ashvin-Pal",
+            "repo": "jest-console-group-reporter",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-ado-reporter",
+          "description": "Reports jest test suite progress information to the pipeline step in Azure DevOps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-01T11:21:15Z",
+            "owner": "bashaus",
+            "repo": "jest-ado-reporter",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-slow-test-highlighter",
+          "description": "Highlights and reports the slowest tests in your suite, helping you identify areas for performance optimization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-10T18:10:18Z",
+            "owner": "Neizan93",
+            "repo": "jest-slow-test-highlighter",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-xunit",
+          "description": "An xUnit format reporter for Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-29T17:54:46Z",
+            "owner": "sscaff1",
+            "repo": "jest-xunit",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-email-reporter",
+          "description": "Reporter for jest test errors by e-mail.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-23T11:50:18Z",
+            "owner": "tglink",
+            "repo": "jest-email-reporter",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-angular-test-verifier",
+          "description": "Ensures that essential Angular files have corresponding test files, reporting any missed opportunities and celebrating when all is well.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-09T11:55:23Z",
+            "owner": "Neizan93",
+            "repo": "jest-angular-test-verifier",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@tsdoc-test-reporter/jest",
+          "description": "A reporter that attaches JS/TSDoc comments to your test results and generates a summary in HTML or JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-01T09:14:21Z",
+            "owner": "tsdoc-test-reporter",
+            "repo": "reporter",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-ci-spec-reporter",
+          "description": "Zero dependency spec reporter with CI-friendly output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-16T00:29:17Z",
+            "owner": "robertbradleyux",
+            "repo": "jest-ci-spec-reporter",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-wip-reporter",
+          "description": "Classifies all tests as either passing, failing, or work-in-progress; also quiet progress reporting with dots by default.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-27T15:46:41Z",
+            "owner": "kevinrutherford",
+            "repo": "jest-wip-reporter",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-tesults-reporter",
+          "description": "Submits test results data to Tesults for analysis and reporting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-03T10:03:17Z",
+            "owner": "tesults",
+            "repo": "jest-tesults-reporter",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Reporters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jest-environment-puppeteer",
+          "description": "Puppeteer environment for Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-26T23:40:00Z",
+            "owner": "argos-ci",
+            "repo": "jest-puppeteer",
+            "stars": 3546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-environment-webdriver",
+          "description": "custom environment for WebDriver integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-13T20:40:13Z",
+            "owner": "alexeyraspopov",
+            "repo": "jest-webdriver",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-doctor",
+          "description": "Async leak detection and preventions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:16:31Z",
+            "owner": "stephan-dum",
+            "repo": "jest-doctor",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Environments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jest-it-up",
+          "description": "Automatically bump up global thresholds whenever coverage goes above them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-17T18:56:50Z",
+            "owner": "rbardini",
+            "repo": "jest-it-up",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-coverage-thresholds-bumper",
+          "description": "Similar to , but allows to specify where coverage summary is located, supports Jest config in JSON files and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-12-24T21:38:33Z",
+            "owner": "Litee",
+            "repo": "jest-coverage-thresholds-bumper",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-a-coverage-slip-detector",
+          "description": "Designed for parallelized CI, prevents test coverage from slipping. Features include per-file ratcheting, automatic coverage merging, and custom messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-03T19:57:01Z",
+            "owner": "GetJobber",
+            "repo": "jest-a-coverage-slip-detector",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Coverage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "StoryShots",
+          "description": "StoryShots adds automatic Jest Snapshot Testing for Storybook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:09:45Z",
+            "owner": "storybookjs",
+            "repo": "storybook",
+            "stars": 90825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@emotion/jest",
+          "description": "Include Emotion styles in component snapshots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-06T07:42:22Z",
+            "owner": "emotion-js",
+            "repo": "emotion",
+            "stars": 18017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-image-snapshot",
+          "description": "Take a snapshot test of an image buffer, and catch when the image changes over a threshold. Commonly used for visual regression testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T17:49:22Z",
+            "owner": "americanexpress",
+            "repo": "jest-image-snapshot",
+            "stars": 3910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-styled-components",
+          "description": "A set of utilities for testing Styled Components with Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-29T22:16:53Z",
+            "owner": "styled-components",
+            "repo": "jest-styled-components",
+            "stars": 1578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enzyme-to-json",
+          "description": "Convert Enzyme wrappers to a format compatible with Jest snapshot testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-27T09:53:57Z",
+            "owner": "adriantoine",
+            "repo": "enzyme-to-json",
+            "stars": 940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Differencify",
+          "description": "Visual regression testing tool using Jest and Puppeteer to do Image snapshot comparison.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-02T12:59:51Z",
+            "owner": "NimaSoroush",
+            "repo": "differencify",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snapshot-diff",
+          "description": "Takes two values, and return their difference as a string, ready to be snapshotted with . Especially helpful when testing the difference between different React component states.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T03:16:06Z",
+            "owner": "jest-community",
+            "repo": "snapshot-diff",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-snapshots-svg",
+          "description": "Take a React component tree, and render it into an SVG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-28T02:57:21Z",
+            "owner": "jest-community",
+            "repo": "jest-snapshots-svg",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "1log",
+          "description": "Extensible logger that allows capturing log messages as snapshots.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-11-09T00:18:54Z",
+            "owner": "ivan7237d",
+            "repo": "1log",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-file-snapshot",
+          "description": "Write snapshots to a separate file instead of the default snapshot file used by Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-10T19:51:02Z",
+            "owner": "satya164",
+            "repo": "jest-file-snapshot",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-serializer-ansi-escapes",
+          "description": "Snapshot serializer for ANSI escape sequences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T05:14:38Z",
+            "owner": "mrazauskas",
+            "repo": "jest-serializer-ansi-escapes",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-large-snapshot-warning",
+          "description": "Add warnings to large snapshots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T00:41:23Z",
+            "owner": "jomaxx",
+            "repo": "jest-large-snapshot-warning",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-serializer-xml",
+          "description": "Format XML documents to better visualize in Snapshots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-18T02:34:09Z",
+            "owner": "keplersj",
+            "repo": "jest-serializer-xml",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-img-snapshot",
+          "description": "Image snapshot comparison using pixelmatch with all Jest's snapshot goodies out of the box.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-07T08:38:28Z",
+            "owner": "donysukardi",
+            "repo": "jest-img-snapshot",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-serializer-react-helmet",
+          "description": "Include React Helmet data in component snapshots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-18T02:28:03Z",
+            "owner": "keplersj",
+            "repo": "jest-serializer-react-helmet",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-serializer-json-ld-script",
+          "description": "Serializes JSON+LD elements as JavaScript objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-18T02:27:38Z",
+            "owner": "keplersj",
+            "repo": "jest-serializer-json-ld-script",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Snapshot"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jest-codemods",
+          "description": "Makes it easy to migrate from other test runner and frameworks to Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T08:16:46Z",
+            "owner": "skovhus",
+            "repo": "jest-codemods",
+            "stars": 888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@putout/plugin-jest",
+          "description": "🐊Putout plugin helps to migrate to latest Jest API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T13:55:02Z",
+            "owner": "coderaiser",
+            "repo": "putout",
+            "stars": 797
+          }
+        }
+      ],
+      "title": "Migration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@fast-check/jest",
+          "description": "Bring property based testing (aka fuzzing) into Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T13:59:55Z",
+            "owner": "dubzzz",
+            "repo": "fast-check",
+            "stars": 5093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-expect-message",
+          "description": "Add custom message to Jest expects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-17T07:01:04Z",
+            "owner": "mattphillips",
+            "repo": "jest-expect-message",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wait-for-expect",
+          "description": "A await/async function to wait a expect. Useful on e2e test.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-01T11:32:23Z",
+            "owner": "TheBrainFamily",
+            "repo": "wait-for-expect",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-chain",
+          "description": "Chain Jest matchers together to create one powerful assertion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-09T08:38:47Z",
+            "owner": "mattphillips",
+            "repo": "jest-chain",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@testdeck/jest",
+          "description": "Decorator based wrapper around Jest for object oriented testing. Checkout the documentation and a working seed for you to start with.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-22T17:32:30Z",
+            "owner": "testdeck",
+            "repo": "testdeck",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-fail-on-console",
+          "description": "Utility to fail a test when (or any other method of the console) gets called.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-16T15:53:01Z",
+            "owner": "ValentinH",
+            "repo": "jest-fail-on-console",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typescript-snapshots-plugin",
+          "description": "Extends the TypeScript dev server to support hovering and jumping to a snapshot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-30T02:28:49Z",
+            "owner": "asvetliakov",
+            "repo": "typescript-snapshots-plugin",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel-jest-assertions",
+          "description": "Babel plugin that automatically adds the number of assertions found in each test with and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-11T18:46:46Z",
+            "owner": "mattphillips",
+            "repo": "babel-jest-assertions",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-puppe-shots",
+          "description": "A Jest plugin for creating screenshots of React components with a little help of Puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-05T21:40:37Z",
+            "owner": "macku",
+            "repo": "jest-puppe-shots",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "testdouble-jest",
+          "description": "Support for testdouble.js for users of Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-02T08:57:04Z",
+            "owner": "testdouble",
+            "repo": "testdouble-jest",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-plugin-must-assert",
+          "description": "A Jest plugin for strict runtime checks. Fails any tests without assertions and prevents async tasks (Promises & timeouts) from leaking across tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T03:34:25Z",
+            "owner": "ballercat",
+            "repo": "jest-plugin-must-assert",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-os-detection",
+          "description": "Dynamically enable or skip tests based on the OS they run on so you can share the same test suite across various platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-10T16:02:53Z",
+            "owner": "doctolib",
+            "repo": "jest-os-detection",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Library extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jest-mock-extended",
+          "description": "Create Typesafe mocks for TS interfaces and objects as well as returning argument specific return values.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-20T15:53:14Z",
+            "owner": "marchaos",
+            "repo": "jest-mock-extended",
+            "stars": 906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-fetch-mock",
+          "description": "Easily mock out and set up responses, powered by Jest mock functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T14:10:56Z",
+            "owner": "jefflau",
+            "repo": "jest-fetch-mock",
+            "stars": 893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Suites",
+          "description": "Unit-testing framework for TypeScript backends with inversion of control and dependency injection that automatically generates type-safe mocks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T17:49:02Z",
+            "owner": "suites-dev",
+            "repo": "suites",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-localstorage-mock",
+          "description": "A module to mock window.localStorage and window.sessionStorage in Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-27T09:18:10Z",
+            "owner": "clarkbw",
+            "repo": "jest-localstorage-mock",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-canvas-mock",
+          "description": "Mock canvas when run unit test cases with jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-09T13:33:37Z",
+            "owner": "hustcc",
+            "repo": "jest-canvas-mock",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-date-mock",
+          "description": "Mock when run unit test cases with jest. Make tests of Date easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-21T01:52:01Z",
+            "owner": "hustcc",
+            "repo": "jest-date-mock",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-location-mock",
+          "description": "Mock easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T05:36:09Z",
+            "owner": "evelynhathaway",
+            "repo": "jest-location-mock",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@jest-mock/express",
+          "description": "Mock Express.js request and response objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-17T09:48:28Z",
+            "owner": "bikk-uk",
+            "repo": "jest-mock-express",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-wake-lock-mock",
+          "description": "Mock Screen Wake Lock API with ease and run your tests using Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-12-01T21:04:29Z",
+            "owner": "jorisre",
+            "repo": "jest-wake-lock-mock",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Mocks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jest-watch-typeahead",
+          "description": "Filter your tests by file name or test name.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:56:31Z",
+            "owner": "jest-community",
+            "repo": "jest-watch-typeahead",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-recorder",
+          "description": "Toggle recording modes for .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T03:19:09Z",
+            "owner": "ericclemmons",
+            "repo": "node-recorder",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-watch-select-projects",
+          "description": "Select which Jest projects to run.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-20T08:25:45Z",
+            "owner": "jest-community",
+            "repo": "jest-watch-select-projects",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-watch-master",
+          "description": "Check changes since master.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-16T23:23:12Z",
+            "owner": "rickhanlonii",
+            "repo": "jest-watch-master",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-watch-directories",
+          "description": "Select directories to test.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-21T21:53:45Z",
+            "owner": "cameronhunter",
+            "repo": "jest-watch-directories",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-watch-lerna-packages",
+          "description": "Select Lerna packages to test.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-21T21:53:45Z",
+            "owner": "cameronhunter",
+            "repo": "jest-watch-directories",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-watch-yarn-workspaces",
+          "description": "Select Yarn workspaces to test.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-21T21:53:45Z",
+            "owner": "cameronhunter",
+            "repo": "jest-watch-directories",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-watch-suspend",
+          "description": "Suspend watch mode so that your changes would not trigger test runs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-19T07:26:39Z",
+            "owner": "unional",
+            "repo": "jest-watch-suspend",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-watch-toggle-config",
+          "description": "Toggle boolean settings (e.g. verbosity, test coverage).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-16T09:53:27Z",
+            "owner": "jest-community",
+            "repo": "jest-watch-toggle-config",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-watch-exec",
+          "description": "Execute scripts during the watch cycle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-15T05:44:24Z",
+            "owner": "unional",
+            "repo": "jest-watch-exec",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-watch-repeat",
+          "description": "Repeat test runs multiple times.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T21:13:31Z",
+            "owner": "unional",
+            "repo": "jest-watch-repeat",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-watch-random",
+          "description": "Randomly run some of the test suites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-19T07:26:32Z",
+            "owner": "unional",
+            "repo": "jest-watch-random",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-watch-continue",
+          "description": "Run test in continue mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-19T07:26:29Z",
+            "owner": "unional",
+            "repo": "jest-watch-continue",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Watch plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ts-jest",
+          "description": "TypeScript preprocessor with sourcemap support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T05:46:11Z",
+            "owner": "kulshekhar",
+            "repo": "ts-jest",
+            "stars": 7076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-jest",
+          "description": "Vue transformer with source map support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-29T21:59:49Z",
+            "owner": "vuejs",
+            "repo": "vue-jest",
+            "stars": 751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-raw-loader",
+          "description": "Processor mimicking 's .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T01:47:04Z",
+            "owner": "keplersj",
+            "repo": "jest-raw-loader",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-less-loader",
+          "description": "Jest transformer for file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-09T05:33:39Z",
+            "owner": "hustcc",
+            "repo": "jest-less-loader",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-nunjucks",
+          "description": "Processor that compiles nunjucks templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-15T13:04:03Z",
+            "owner": "denar90",
+            "repo": "jest-nunjucks",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marko-jest",
+          "description": "Processor for Marko component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-15T16:03:36Z",
+            "owner": "abiyasa",
+            "repo": "marko-jest",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-url-loader",
+          "description": "Similar with webpack's for Jest transformer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-09-06T08:43:39Z",
+            "owner": "hustcc",
+            "repo": "jest-url-loader",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-pug-jest",
+          "description": "Processor for Pug/Jade.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-03T12:35:00Z",
+            "owner": "iketari",
+            "repo": "awesome-pug-jest",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Processor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jest-puppeteer",
+          "description": "A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-26T23:40:00Z",
+            "owner": "argos-ci",
+            "repo": "jest-puppeteer",
+            "stars": 3546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-preset-angular",
+          "description": "Jest preset for Angular projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:59:28Z",
+            "owner": "thymikee",
+            "repo": "jest-preset-angular",
+            "stars": 920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-mongodb",
+          "description": "Jest preset for working with MongoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T02:57:18Z",
+            "owner": "shelfio",
+            "repo": "jest-mongodb",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-dynamodb",
+          "description": "Jest preset for working with DynamoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:47:35Z",
+            "owner": "shelfio",
+            "repo": "jest-dynamodb",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-search",
+          "description": "Jest preset for working with customisable version of OpenSearch, ElasticSearch and ZincSearch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-27T15:54:34Z",
+            "owner": "geek-fun",
+            "repo": "jest-search",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-elasticsearch",
+          "description": "Jest preset for working with ElasticSearch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T02:49:41Z",
+            "owner": "shelfio",
+            "repo": "jest-elasticsearch",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-preset-gatsby",
+          "description": "Jest preset to streamline unit testing a Gatsby project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-21T12:33:29Z",
+            "owner": "keplersj",
+            "repo": "jest-preset-gatsby",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Presets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jest cheat sheet",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-30T07:49:42Z",
+            "owner": "sapegin",
+            "repo": "jest-cheat-sheet",
+            "stars": 5421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Jest workshop",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-25T23:17:05Z",
+            "owner": "kentcdodds",
+            "repo": "react-jest-workshop",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jest: How Do I Mock X",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-22T16:43:57Z",
+            "owner": "magicmark",
+            "repo": "jest-how-do-i-mock-x",
+            "stars": 104
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "MIT",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:23.316Z",
+    "original_repository": "jest-community/awesome-jest",
+    "original_repository_sha": "07df41832e393c767a0cee234409d0bcbd191479",
+    "enhanced_repository": "enhansome/enhansome-jest",
+    "enhanced_repository_description": null,
+    "title": "Awesome Jest with stars"
+  }
+}
