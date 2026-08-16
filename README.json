@@ -336,7 +336,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T19:39:40Z",
+            "last_commit": "2026-08-16T13:09:16Z",
             "owner": "jest-community",
             "repo": "eslint-plugin-jest-extended",
             "stars": 22
@@ -558,7 +558,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T09:12:10Z",
+            "last_commit": "2026-08-15T19:24:15Z",
             "owner": "testomatio",
             "repo": "reporter",
             "stars": 151
@@ -985,7 +985,7 @@
             "last_commit": "2026-08-14T20:44:33Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90855
+            "stars": 90858
           }
         },
         {
@@ -1066,7 +1066,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T03:16:06Z",
+            "last_commit": "2026-08-16T11:16:10Z",
             "owner": "jest-community",
             "repo": "snapshot-diff",
             "stars": 604
@@ -1226,7 +1226,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T23:05:10Z",
+            "last_commit": "2026-08-16T13:32:24Z",
             "owner": "coderaiser",
             "repo": "putout",
             "stars": 797
@@ -1246,10 +1246,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T22:41:32Z",
+            "last_commit": "2026-08-16T14:15:59Z",
             "owner": "dubzzz",
             "repo": "fast-check",
-            "stars": 5098
+            "stars": 5101
           }
         },
         {
@@ -1692,7 +1692,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:11:00Z",
+            "last_commit": "2026-08-15T17:41:50Z",
             "owner": "unional",
             "repo": "jest-watch-repeat",
             "stars": 5
@@ -1872,7 +1872,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T19:59:28Z",
+            "last_commit": "2026-08-16T11:52:43Z",
             "owner": "thymikee",
             "repo": "jest-preset-angular",
             "stars": 920
@@ -1886,7 +1886,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:22:56Z",
+            "last_commit": "2026-08-15T21:06:30Z",
             "owner": "shelfio",
             "repo": "jest-mongodb",
             "stars": 602
@@ -1900,7 +1900,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:34:31Z",
+            "last_commit": "2026-08-15T16:02:06Z",
             "owner": "shelfio",
             "repo": "jest-dynamodb",
             "stars": 198
@@ -1928,7 +1928,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:34:33Z",
+            "last_commit": "2026-08-15T16:01:59Z",
             "owner": "shelfio",
             "repo": "jest-elasticsearch",
             "stars": 9
@@ -1965,7 +1965,7 @@
             "last_commit": "2024-10-30T07:49:42Z",
             "owner": "sapegin",
             "repo": "jest-cheat-sheet",
-            "stars": 5421
+            "stars": 5422
           }
         },
         {
@@ -2011,7 +2011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:22:54.937Z",
+    "last_updated": "2026-08-16T14:22:59.052Z",
     "original_repository": "jest-community/awesome-jest",
     "original_repository_sha": "07df41832e393c767a0cee234409d0bcbd191479",
     "enhanced_repository": "enhansome/enhansome-jest",
