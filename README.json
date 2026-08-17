@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T22:29:51Z",
+            "last_commit": "2026-08-17T05:34:41Z",
             "owner": "jest-community",
             "repo": "jest-extended",
             "stars": 2350
@@ -294,7 +294,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:56:03Z",
+            "last_commit": "2026-08-17T02:46:22Z",
             "owner": "jest-community",
             "repo": "eslint-plugin-jest",
             "stars": 1169
@@ -754,7 +754,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-01-01T11:21:15Z",
+            "last_commit": "2026-08-16T18:40:32Z",
             "owner": "bashaus",
             "repo": "jest-ado-reporter",
             "stars": 3
@@ -982,10 +982,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:44:33Z",
+            "last_commit": "2026-08-17T14:03:38Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90858
+            "stars": 90860
           }
         },
         {
@@ -1122,7 +1122,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T05:14:38Z",
+            "last_commit": "2026-08-17T05:07:10Z",
             "owner": "mrazauskas",
             "repo": "jest-serializer-ansi-escapes",
             "stars": 6
@@ -1226,7 +1226,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T13:32:24Z",
+            "last_commit": "2026-08-17T11:26:28Z",
             "owner": "coderaiser",
             "repo": "putout",
             "stars": 797
@@ -1246,10 +1246,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T14:15:59Z",
+            "last_commit": "2026-08-17T13:50:27Z",
             "owner": "dubzzz",
             "repo": "fast-check",
-            "stars": 5101
+            "stars": 5103
           }
         },
         {
@@ -1872,7 +1872,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T11:52:43Z",
+            "last_commit": "2026-08-16T21:10:45Z",
             "owner": "thymikee",
             "repo": "jest-preset-angular",
             "stars": 920
@@ -1886,7 +1886,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T21:06:30Z",
+            "last_commit": "2026-08-17T03:48:57Z",
             "owner": "shelfio",
             "repo": "jest-mongodb",
             "stars": 602
@@ -1900,7 +1900,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T16:02:06Z",
+            "last_commit": "2026-08-17T03:53:39Z",
             "owner": "shelfio",
             "repo": "jest-dynamodb",
             "stars": 198
@@ -2011,7 +2011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:22:59.052Z",
+    "last_updated": "2026-08-17T14:28:02.101Z",
     "original_repository": "jest-community/awesome-jest",
     "original_repository_sha": "07df41832e393c767a0cee234409d0bcbd191479",
     "enhanced_repository": "enhansome/enhansome-jest",
