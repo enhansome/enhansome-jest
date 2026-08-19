@@ -1053,7 +1053,7 @@
                 "archived": false,
                 "id": 54173593,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:30:37Z",
+                "last_commit": "2026-08-19T14:20:49Z",
                 "owner": "storybookjs",
                 "repo": "storybook",
                 "stars": 90875
@@ -1337,7 +1337,7 @@
                 "archived": false,
                 "id": 108920680,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:14:20Z",
+                "last_commit": "2026-08-19T14:22:40Z",
                 "owner": "dubzzz",
                 "repo": "fast-check",
                 "stars": 5106
@@ -2152,7 +2152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:36:39.517Z",
+    "last_updated": "2026-08-19T14:33:45.165Z",
     "original_repository": "jest-community/awesome-jest",
     "original_repository_id": 123143808,
     "original_repository_sha": "07df41832e393c767a0cee234409d0bcbd191479",
