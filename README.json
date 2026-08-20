@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-09T23:42:19Z",
                 "owner": "testing-library",
                 "repo": "jest-dom",
-                "stars": 4595
+                "stars": 4596
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-03-26T23:40:00Z",
                 "owner": "argos-ci",
                 "repo": "jest-puppeteer",
-                "stars": 3546
+                "stars": 3545
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 106967896,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T05:34:41Z",
+                "last_commit": "2026-08-19T16:02:40Z",
                 "owner": "jest-community",
                 "repo": "jest-extended",
                 "stars": 2350
@@ -537,7 +537,7 @@
                 "archived": false,
                 "id": 74174788,
                 "language": "JavaScript",
-                "last_commit": "2026-06-08T12:47:06Z",
+                "last_commit": "2026-08-20T07:10:39Z",
                 "owner": "jest-community",
                 "repo": "jest-junit",
                 "stars": 502
@@ -952,7 +952,7 @@
                 "last_commit": "2026-03-26T23:40:00Z",
                 "owner": "argos-ci",
                 "repo": "jest-puppeteer",
-                "stars": 3546
+                "stars": 3545
               }
             },
             {
@@ -979,7 +979,7 @@
                 "archived": false,
                 "id": 1132367054,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T01:16:31Z",
+                "last_commit": "2026-08-20T12:47:34Z",
                 "owner": "stephan-dum",
                 "repo": "jest-doctor",
                 "stars": 11
@@ -1053,10 +1053,10 @@
                 "archived": false,
                 "id": 54173593,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T14:20:49Z",
+                "last_commit": "2026-08-20T14:31:16Z",
                 "owner": "storybookjs",
                 "repo": "storybook",
-                "stars": 90875
+                "stars": 90883
               }
             },
             {
@@ -1086,7 +1086,7 @@
                 "last_commit": "2026-08-05T17:49:22Z",
                 "owner": "americanexpress",
                 "repo": "jest-image-snapshot",
-                "stars": 3910
+                "stars": 3911
               }
             },
             {
@@ -1315,7 +1315,7 @@
                 "archived": false,
                 "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T12:09:18Z",
+                "last_commit": "2026-08-20T12:59:36Z",
                 "owner": "coderaiser",
                 "repo": "putout",
                 "stars": 796
@@ -1337,10 +1337,10 @@
                 "archived": false,
                 "id": 108920680,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T14:22:40Z",
+                "last_commit": "2026-08-20T00:26:41Z",
                 "owner": "dubzzz",
                 "repo": "fast-check",
-                "stars": 5106
+                "stars": 5111
               }
             },
             {
@@ -1554,7 +1554,7 @@
                 "archived": false,
                 "id": 429476841,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T19:00:25Z",
+                "last_commit": "2026-08-20T14:00:45Z",
                 "owner": "suites-dev",
                 "repo": "suites",
                 "stars": 545
@@ -1998,7 +1998,7 @@
                 "last_commit": "2026-03-26T23:40:00Z",
                 "owner": "argos-ci",
                 "repo": "jest-puppeteer",
-                "stars": 3546
+                "stars": 3545
               }
             },
             {
@@ -2040,7 +2040,7 @@
                 "archived": false,
                 "id": 181049859,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T00:04:03Z",
+                "last_commit": "2026-08-19T21:34:54Z",
                 "owner": "shelfio",
                 "repo": "jest-dynamodb",
                 "stars": 198
@@ -2152,7 +2152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:33:45.165Z",
+    "last_updated": "2026-08-20T14:36:39.909Z",
     "original_repository": "jest-community/awesome-jest",
     "original_repository_id": 123143808,
     "original_repository_sha": "07df41832e393c767a0cee234409d0bcbd191479",
