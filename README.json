@@ -1075,7 +1075,7 @@
                 "archived": false,
                 "id": 54173593,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:07:18Z",
+                "last_commit": "2026-08-24T14:41:11Z",
                 "owner": "storybookjs",
                 "repo": "storybook",
                 "stars": 90916
@@ -2218,7 +2218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:43.488Z",
+    "last_updated": "2026-08-24T14:49:59.622Z",
     "original_repository": "jest-community/awesome-jest",
     "original_repository_id": 123143808,
     "original_repository_sha": "07df41832e393c767a0cee234409d0bcbd191479",
