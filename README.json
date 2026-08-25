@@ -313,7 +313,7 @@
                 "archived": false,
                 "id": 110028636,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T09:52:33Z",
+                "last_commit": "2026-08-25T02:31:26Z",
                 "owner": "jest-community",
                 "repo": "eslint-plugin-jest",
                 "stars": 1170
@@ -455,7 +455,7 @@
                 "archived": false,
                 "id": 273254333,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:51:51Z",
+                "last_commit": "2026-08-24T17:42:34Z",
                 "owner": "jest-community",
                 "repo": "jest-runner-tsd",
                 "stars": 77
@@ -687,7 +687,7 @@
                 "archived": false,
                 "id": 169427854,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T14:43:32Z",
+                "last_commit": "2026-08-25T01:54:12Z",
                 "owner": "chrisgalvan",
                 "repo": "jest-standard-reporter",
                 "stars": 22
@@ -1075,10 +1075,10 @@
                 "archived": false,
                 "id": 54173593,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:41:11Z",
+                "last_commit": "2026-08-24T20:45:42Z",
                 "owner": "storybookjs",
                 "repo": "storybook",
-                "stars": 90916
+                "stars": 90928
               }
             },
             {
@@ -1337,10 +1337,10 @@
                 "archived": false,
                 "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T14:15:34Z",
+                "last_commit": "2026-08-24T20:44:37Z",
                 "owner": "coderaiser",
                 "repo": "putout",
-                "stars": 796
+                "stars": 797
               }
             }
           ],
@@ -1362,7 +1362,7 @@
                 "last_commit": "2026-08-23T20:42:37Z",
                 "owner": "dubzzz",
                 "repo": "fast-check",
-                "stars": 5116
+                "stars": 5117
               }
             },
             {
@@ -1920,7 +1920,7 @@
                 "archived": false,
                 "id": 109055226,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T15:34:03Z",
+                "last_commit": "2026-08-25T01:36:54Z",
                 "owner": "keplersj",
                 "repo": "jest-raw-loader",
                 "stars": 34
@@ -2032,7 +2032,7 @@
                 "archived": false,
                 "id": 86746409,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T09:09:19Z",
+                "last_commit": "2026-08-24T23:33:04Z",
                 "owner": "thymikee",
                 "repo": "jest-preset-angular",
                 "stars": 920
@@ -2218,7 +2218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:49:59.622Z",
+    "last_updated": "2026-08-25T06:03:51.965Z",
     "original_repository": "jest-community/awesome-jest",
     "original_repository_id": 123143808,
     "original_repository_sha": "07df41832e393c767a0cee234409d0bcbd191479",
