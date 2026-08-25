@@ -627,7 +627,7 @@
                 "archived": false,
                 "id": 202984528,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T18:57:27Z",
+                "last_commit": "2026-08-25T12:51:55Z",
                 "owner": "hipstersmoothie",
                 "repo": "jest-github-reporter",
                 "stars": 106
@@ -1075,10 +1075,10 @@
                 "archived": false,
                 "id": 54173593,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T20:45:42Z",
+                "last_commit": "2026-08-25T14:35:10Z",
                 "owner": "storybookjs",
                 "repo": "storybook",
-                "stars": 90928
+                "stars": 90934
               }
             },
             {
@@ -1337,7 +1337,7 @@
                 "archived": false,
                 "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T20:44:37Z",
+                "last_commit": "2026-08-25T14:18:38Z",
                 "owner": "coderaiser",
                 "repo": "putout",
                 "stars": 797
@@ -2032,7 +2032,7 @@
                 "archived": false,
                 "id": 86746409,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T23:33:04Z",
+                "last_commit": "2026-08-25T10:11:06Z",
                 "owner": "thymikee",
                 "repo": "jest-preset-angular",
                 "stars": 920
@@ -2218,7 +2218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:51.965Z",
+    "last_updated": "2026-08-25T14:45:00.542Z",
     "original_repository": "jest-community/awesome-jest",
     "original_repository_id": 123143808,
     "original_repository_sha": "07df41832e393c767a0cee234409d0bcbd191479",
