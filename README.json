@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 92570536,
                 "language": "JavaScript",
-                "last_commit": "2026-05-06T07:42:22Z",
+                "last_commit": "2026-08-26T14:32:44Z",
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18016
+                "stars": 18017
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-03-26T23:40:00Z",
                 "owner": "argos-ci",
                 "repo": "jest-puppeteer",
-                "stars": 3545
+                "stars": 3544
               }
             },
             {
@@ -313,7 +313,7 @@
                 "archived": false,
                 "id": 110028636,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T02:31:26Z",
+                "last_commit": "2026-08-25T19:21:23Z",
                 "owner": "jest-community",
                 "repo": "eslint-plugin-jest",
                 "stars": 1170
@@ -380,7 +380,7 @@
                 "archived": false,
                 "id": 102813161,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T15:41:21Z",
+                "last_commit": "2026-08-25T16:51:33Z",
                 "owner": "jest-community",
                 "repo": "jest-runner-eslint",
                 "stars": 480
@@ -455,7 +455,7 @@
                 "archived": false,
                 "id": 273254333,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T17:42:34Z",
+                "last_commit": "2026-08-25T18:56:30Z",
                 "owner": "jest-community",
                 "repo": "jest-runner-tsd",
                 "stars": 77
@@ -525,7 +525,7 @@
                 "last_commit": "2026-08-07T03:47:58Z",
                 "owner": "Hazyzh",
                 "repo": "jest-html-reporters",
-                "stars": 539
+                "stars": 540
               }
             },
             {
@@ -627,7 +627,7 @@
                 "archived": false,
                 "id": 202984528,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T12:51:55Z",
+                "last_commit": "2026-08-26T12:45:59Z",
                 "owner": "hipstersmoothie",
                 "repo": "jest-github-reporter",
                 "stars": 106
@@ -974,7 +974,7 @@
                 "last_commit": "2026-03-26T23:40:00Z",
                 "owner": "argos-ci",
                 "repo": "jest-puppeteer",
-                "stars": 3545
+                "stars": 3544
               }
             },
             {
@@ -1075,10 +1075,10 @@
                 "archived": false,
                 "id": 54173593,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T14:35:10Z",
+                "last_commit": "2026-08-26T14:33:30Z",
                 "owner": "storybookjs",
                 "repo": "storybook",
-                "stars": 90934
+                "stars": 90939
               }
             },
             {
@@ -1090,10 +1090,10 @@
                 "archived": false,
                 "id": 92570536,
                 "language": "JavaScript",
-                "last_commit": "2026-05-06T07:42:22Z",
+                "last_commit": "2026-08-26T14:32:44Z",
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18016
+                "stars": 18017
               }
             },
             {
@@ -1165,7 +1165,7 @@
                 "archived": false,
                 "id": 98574889,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T21:39:42Z",
+                "last_commit": "2026-08-25T17:52:36Z",
                 "owner": "jest-community",
                 "repo": "snapshot-diff",
                 "stars": 604
@@ -1322,7 +1322,7 @@
                 "archived": false,
                 "id": 68468109,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:42:07Z",
+                "last_commit": "2026-08-25T23:37:12Z",
                 "owner": "skovhus",
                 "repo": "jest-codemods",
                 "stars": 888
@@ -1337,10 +1337,10 @@
                 "archived": false,
                 "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T14:18:38Z",
+                "last_commit": "2026-08-25T21:53:11Z",
                 "owner": "coderaiser",
                 "repo": "putout",
-                "stars": 797
+                "stars": 796
               }
             }
           ],
@@ -1359,10 +1359,10 @@
                 "archived": false,
                 "id": 108920680,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T20:42:37Z",
+                "last_commit": "2026-08-26T10:52:38Z",
                 "owner": "dubzzz",
                 "repo": "fast-check",
-                "stars": 5117
+                "stars": 5118
               }
             },
             {
@@ -1576,7 +1576,7 @@
                 "archived": false,
                 "id": 429476841,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T17:49:31Z",
+                "last_commit": "2026-08-26T13:20:37Z",
                 "owner": "suites-dev",
                 "repo": "suites",
                 "stars": 545
@@ -1838,7 +1838,7 @@
                 "archived": false,
                 "id": 154241456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:05:20Z",
+                "last_commit": "2026-08-25T22:14:05Z",
                 "owner": "cyberuni",
                 "repo": "jest-watch-repeat",
                 "stars": 5
@@ -1920,7 +1920,7 @@
                 "archived": false,
                 "id": 109055226,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T01:36:54Z",
+                "last_commit": "2026-08-26T13:16:59Z",
                 "owner": "keplersj",
                 "repo": "jest-raw-loader",
                 "stars": 34
@@ -2020,7 +2020,7 @@
                 "last_commit": "2026-03-26T23:40:00Z",
                 "owner": "argos-ci",
                 "repo": "jest-puppeteer",
-                "stars": 3545
+                "stars": 3544
               }
             },
             {
@@ -2180,7 +2180,7 @@
             "last_commit": "2024-10-30T07:49:42Z",
             "owner": "sapegin",
             "repo": "jest-cheat-sheet",
-            "stars": 5422
+            "stars": 5421
           }
         },
         {
@@ -2218,7 +2218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:45:00.542Z",
+    "last_updated": "2026-08-26T14:43:58.821Z",
     "original_repository": "jest-community/awesome-jest",
     "original_repository_id": 123143808,
     "original_repository_sha": "07df41832e393c767a0cee234409d0bcbd191479",
