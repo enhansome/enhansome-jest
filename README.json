@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-26T21:27:16Z",
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18018
+                "stars": 18019
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 106967896,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T18:58:56Z",
+                "last_commit": "2026-08-27T17:35:08Z",
                 "owner": "jest-community",
                 "repo": "jest-extended",
                 "stars": 2350
@@ -313,7 +313,7 @@
                 "archived": false,
                 "id": 110028636,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T14:48:07Z",
+                "last_commit": "2026-08-27T20:32:26Z",
                 "owner": "jest-community",
                 "repo": "eslint-plugin-jest",
                 "stars": 1170
@@ -1075,10 +1075,10 @@
                 "archived": false,
                 "id": 54173593,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:39:35Z",
+                "last_commit": "2026-08-27T18:26:25Z",
                 "owner": "storybookjs",
                 "repo": "storybook",
-                "stars": 90948
+                "stars": 90950
               }
             },
             {
@@ -1093,7 +1093,7 @@
                 "last_commit": "2026-08-26T21:27:16Z",
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18018
+                "stars": 18019
               }
             },
             {
@@ -1322,7 +1322,7 @@
                 "archived": false,
                 "id": 68468109,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T18:45:34Z",
+                "last_commit": "2026-08-27T21:40:38Z",
                 "owner": "skovhus",
                 "repo": "jest-codemods",
                 "stars": 888
@@ -1337,7 +1337,7 @@
                 "archived": false,
                 "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T20:00:58Z",
+                "last_commit": "2026-08-27T19:37:44Z",
                 "owner": "coderaiser",
                 "repo": "putout",
                 "stars": 796
@@ -1359,10 +1359,10 @@
                 "archived": false,
                 "id": 108920680,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T01:48:22Z",
+                "last_commit": "2026-08-27T19:02:32Z",
                 "owner": "dubzzz",
                 "repo": "fast-check",
-                "stars": 5119
+                "stars": 5120
               }
             },
             {
@@ -1579,7 +1579,7 @@
                 "last_commit": "2026-08-26T17:48:48Z",
                 "owner": "suites-dev",
                 "repo": "suites",
-                "stars": 545
+                "stars": 546
               }
             },
             {
@@ -1890,7 +1890,7 @@
                 "archived": false,
                 "id": 66944590,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T20:30:19Z",
+                "last_commit": "2026-08-27T19:09:03Z",
                 "owner": "kulshekhar",
                 "repo": "ts-jest",
                 "stars": 7075
@@ -1920,7 +1920,7 @@
                 "archived": false,
                 "id": 109055226,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T13:16:59Z",
+                "last_commit": "2026-08-27T21:03:30Z",
                 "owner": "keplersj",
                 "repo": "jest-raw-loader",
                 "stars": 34
@@ -2032,7 +2032,7 @@
                 "archived": false,
                 "id": 86746409,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T04:36:30Z",
+                "last_commit": "2026-08-27T19:32:56Z",
                 "owner": "thymikee",
                 "repo": "jest-preset-angular",
                 "stars": 920
@@ -2218,7 +2218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:27.763Z",
+    "last_updated": "2026-08-27T23:38:12.461Z",
     "original_repository_info": {
       "archived": false,
       "id": 123143808,
