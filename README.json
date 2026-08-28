@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 92570536,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T21:27:16Z",
+                "last_commit": "2026-08-28T09:30:54Z",
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18019
-              }
+                "stars": 18021
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "testing-library",
                 "repo": "jest-dom",
                 "stars": 4597
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "argos-ci",
                 "repo": "jest-puppeteer",
                 "stars": 3544
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "jest-community",
                 "repo": "jest-extended",
                 "stars": 2350
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "NickColley",
                 "repo": "jest-axe",
                 "stars": 1111
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "enzymejs",
                 "repo": "enzyme-matchers",
                 "stars": 886
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "testing-library",
                 "repo": "jest-native",
                 "stars": 439
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "traceloop",
                 "repo": "jest-opentelemetry",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "openapi-library",
                 "repo": "OpenAPIValidators",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "JamieMason",
                 "repo": "expect-more",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "americanexpress",
                 "repo": "jest-json-schema",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "doniyor2109",
                 "repo": "jest-generator",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "duailibe",
                 "repo": "jest-json",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "raingerber",
                 "repo": "jest-shell-matchers",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -235,7 +249,8 @@
                 "owner": "jest-community",
                 "repo": "vscode-jest",
                 "stars": 2890
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "wallabyjs",
                 "repo": "public",
                 "stars": 774
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "firsttris",
                 "repo": "vscode-jest-runner",
                 "stars": 301
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "David-Kunz",
                 "repo": "jester",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "neoclide",
                 "repo": "coc-jest",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -313,11 +332,12 @@
                 "archived": false,
                 "id": 110028636,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T20:32:26Z",
+                "last_commit": "2026-08-28T01:31:05Z",
                 "owner": "jest-community",
                 "repo": "eslint-plugin-jest",
                 "stars": 1170
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "testing-library",
                 "repo": "eslint-plugin-jest-dom",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "dangreenisrael",
                 "repo": "eslint-plugin-jest-formatting",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -358,11 +380,12 @@
                 "archived": false,
                 "id": 243358491,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T16:00:41Z",
+                "last_commit": "2026-08-28T13:34:22Z",
                 "owner": "jest-community",
                 "repo": "eslint-plugin-jest-extended",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -384,7 +407,8 @@
                 "owner": "jest-community",
                 "repo": "jest-runner-eslint",
                 "stars": 480
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -399,7 +423,8 @@
                 "owner": "nicolo-ribaudo",
                 "repo": "jest-light-runner",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -414,7 +439,8 @@
                 "owner": "azz",
                 "repo": "jest-runner-tsc",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -429,7 +455,8 @@
                 "owner": "eugene-manuilov",
                 "repo": "jest-runner-groups",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -444,7 +471,8 @@
                 "owner": "keplersj",
                 "repo": "jest-runner-prettier",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -455,11 +483,12 @@
                 "archived": false,
                 "id": 273254333,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T21:34:20Z",
+                "last_commit": "2026-08-28T12:13:30Z",
                 "owner": "jest-community",
                 "repo": "jest-runner-tsd",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -474,7 +503,8 @@
                 "owner": "rogeliog",
                 "repo": "jest-runner-mocha",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -489,7 +519,8 @@
                 "owner": "d4rkr00t",
                 "repo": "jest-electron-runner",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -504,7 +535,8 @@
                 "owner": "keplersj",
                 "repo": "jest-runner-stylelint",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -526,7 +558,8 @@
                 "owner": "Hazyzh",
                 "repo": "jest-html-reporters",
                 "stars": 540
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -541,7 +574,8 @@
                 "owner": "jest-community",
                 "repo": "jest-junit",
                 "stars": 502
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -556,7 +590,8 @@
                 "owner": "Hargne",
                 "repo": "jest-html-reporter",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -567,11 +602,12 @@
                 "archived": false,
                 "id": 121054543,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T22:46:04Z",
+                "last_commit": "2026-08-28T13:39:09Z",
                 "owner": "dkelosky",
                 "repo": "jest-stare",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -586,7 +622,8 @@
                 "owner": "rickhanlonii",
                 "repo": "jest-silent-reporter",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -597,11 +634,12 @@
                 "archived": false,
                 "id": 241091114,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T13:25:28Z",
+                "last_commit": "2026-08-28T17:44:54Z",
                 "owner": "testomatio",
                 "repo": "reporter",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -616,7 +654,8 @@
                 "owner": "zaqqaz",
                 "repo": "jest-allure",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -631,7 +670,8 @@
                 "owner": "hipstersmoothie",
                 "repo": "jest-github-reporter",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -646,7 +686,8 @@
                 "owner": "theoutlander",
                 "repo": "jest-dashboard",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -661,7 +702,8 @@
                 "owner": "jodonnell",
                 "repo": "jest-slow-test-reporter",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -676,7 +718,8 @@
                 "owner": "mrasu",
                 "repo": "echoed",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -687,11 +730,12 @@
                 "archived": false,
                 "id": 169427854,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T19:37:16Z",
+                "last_commit": "2026-08-28T12:09:46Z",
                 "owner": "chrisgalvan",
                 "repo": "jest-standard-reporter",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -706,7 +750,8 @@
                 "owner": "sholzmayer",
                 "repo": "jest-performance-reporter",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -721,7 +766,8 @@
                 "owner": "MatteoH2O1999",
                 "repo": "github-actions-jest-reporter",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -736,7 +782,8 @@
                 "owner": "pierreroth64",
                 "repo": "jest-progress-bar-reporter",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -751,7 +798,8 @@
                 "owner": "rickhanlonii",
                 "repo": "jest-skipped-reporter",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -766,7 +814,8 @@
                 "owner": "jodonnell",
                 "repo": "jest-simple-dot-reporter",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -781,7 +830,8 @@
                 "owner": "AntonChaukin",
                 "repo": "testrail-jest-reporter",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -796,7 +846,8 @@
                 "owner": "Ashvin-Pal",
                 "repo": "jest-console-group-reporter",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -811,7 +862,8 @@
                 "owner": "bashaus",
                 "repo": "jest-ado-reporter",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -826,7 +878,8 @@
                 "owner": "Neizan93",
                 "repo": "jest-slow-test-highlighter",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -841,7 +894,8 @@
                 "owner": "sscaff1",
                 "repo": "jest-xunit",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -856,7 +910,8 @@
                 "owner": "tglink",
                 "repo": "jest-email-reporter",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -871,7 +926,8 @@
                 "owner": "Neizan93",
                 "repo": "jest-angular-test-verifier",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -886,7 +942,8 @@
                 "owner": "tsdoc-test-reporter",
                 "repo": "reporter",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -901,7 +958,8 @@
                 "owner": "robertbradleyux",
                 "repo": "jest-ci-spec-reporter",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -916,7 +974,8 @@
                 "owner": "kevinrutherford",
                 "repo": "jest-wip-reporter",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -931,7 +990,8 @@
                 "owner": "tesults",
                 "repo": "jest-tesults-reporter",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -953,7 +1013,8 @@
                 "owner": "Raathigesh",
                 "repo": "majestic",
                 "stars": 7452
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -975,7 +1036,8 @@
                 "owner": "argos-ci",
                 "repo": "jest-puppeteer",
                 "stars": 3544
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -990,7 +1052,8 @@
                 "owner": "alexeyraspopov",
                 "repo": "jest-webdriver",
                 "stars": 220
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1005,7 +1068,8 @@
                 "owner": "stephan-dum",
                 "repo": "jest-doctor",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -1027,7 +1091,8 @@
                 "owner": "rbardini",
                 "repo": "jest-it-up",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1042,7 +1107,8 @@
                 "owner": "Litee",
                 "repo": "jest-coverage-thresholds-bumper",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1057,7 +1123,8 @@
                 "owner": "GetJobber",
                 "repo": "jest-a-coverage-slip-detector",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -1075,11 +1142,12 @@
                 "archived": false,
                 "id": 54173593,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T18:26:25Z",
+                "last_commit": "2026-08-28T21:09:18Z",
                 "owner": "storybookjs",
                 "repo": "storybook",
-                "stars": 90950
-              }
+                "stars": 90957
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1090,11 +1158,12 @@
                 "archived": false,
                 "id": 92570536,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T21:27:16Z",
+                "last_commit": "2026-08-28T09:30:54Z",
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18019
-              }
+                "stars": 18021
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1109,7 +1178,8 @@
                 "owner": "americanexpress",
                 "repo": "jest-image-snapshot",
                 "stars": 3914
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1124,7 +1194,8 @@
                 "owner": "styled-components",
                 "repo": "jest-styled-components",
                 "stars": 1580
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1139,7 +1210,8 @@
                 "owner": "adriantoine",
                 "repo": "enzyme-to-json",
                 "stars": 940
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1154,7 +1226,8 @@
                 "owner": "NimaSoroush",
                 "repo": "differencify",
                 "stars": 638
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1165,11 +1238,12 @@
                 "archived": false,
                 "id": 98574889,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T14:50:56Z",
+                "last_commit": "2026-08-28T10:16:06Z",
                 "owner": "jest-community",
                 "repo": "snapshot-diff",
                 "stars": 604
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1184,7 +1258,8 @@
                 "owner": "jest-community",
                 "repo": "jest-snapshots-svg",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1199,7 +1274,8 @@
                 "owner": "ivan7237d",
                 "repo": "1log",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1214,7 +1290,8 @@
                 "owner": "satya164",
                 "repo": "jest-file-snapshot",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1229,7 +1306,8 @@
                 "owner": "mrazauskas",
                 "repo": "jest-serializer-ansi-escapes",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1244,7 +1322,8 @@
                 "owner": "jomaxx",
                 "repo": "jest-large-snapshot-warning",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1259,7 +1338,8 @@
                 "owner": "keplersj",
                 "repo": "jest-serializer-xml",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1274,7 +1354,8 @@
                 "owner": "donysukardi",
                 "repo": "jest-img-snapshot",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1289,7 +1370,8 @@
                 "owner": "keplersj",
                 "repo": "jest-serializer-react-helmet",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1304,7 +1386,8 @@
                 "owner": "keplersj",
                 "repo": "jest-serializer-json-ld-script",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -1322,11 +1405,12 @@
                 "archived": false,
                 "id": 68468109,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T21:40:38Z",
+                "last_commit": "2026-08-28T12:58:20Z",
                 "owner": "skovhus",
                 "repo": "jest-codemods",
                 "stars": 888
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1337,11 +1421,12 @@
                 "archived": false,
                 "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T19:37:44Z",
+                "last_commit": "2026-08-28T21:42:54Z",
                 "owner": "coderaiser",
                 "repo": "putout",
                 "stars": 796
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -1359,11 +1444,12 @@
                 "archived": false,
                 "id": 108920680,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:02:32Z",
+                "last_commit": "2026-08-28T20:29:43Z",
                 "owner": "dubzzz",
                 "repo": "fast-check",
-                "stars": 5120
-              }
+                "stars": 5121
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1378,7 +1464,8 @@
                 "owner": "mattphillips",
                 "repo": "jest-expect-message",
                 "stars": 370
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1393,7 +1480,8 @@
                 "owner": "TheBrainFamily",
                 "repo": "wait-for-expect",
                 "stars": 299
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1408,7 +1496,8 @@
                 "owner": "mattphillips",
                 "repo": "jest-chain",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1423,7 +1512,8 @@
                 "owner": "testdeck",
                 "repo": "testdeck",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1438,7 +1528,8 @@
                 "owner": "ValentinH",
                 "repo": "jest-fail-on-console",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1453,7 +1544,8 @@
                 "owner": "asvetliakov",
                 "repo": "typescript-snapshots-plugin",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1468,7 +1560,8 @@
                 "owner": "mattphillips",
                 "repo": "babel-jest-assertions",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1483,7 +1576,8 @@
                 "owner": "macku",
                 "repo": "jest-puppe-shots",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1498,7 +1592,8 @@
                 "owner": "testdouble",
                 "repo": "testdouble-jest",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1513,7 +1608,8 @@
                 "owner": "ballercat",
                 "repo": "jest-plugin-must-assert",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1528,7 +1624,8 @@
                 "owner": "doctolib",
                 "repo": "jest-os-detection",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -1550,7 +1647,8 @@
                 "owner": "marchaos",
                 "repo": "jest-mock-extended",
                 "stars": 906
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1564,8 +1662,9 @@
                 "last_commit": "2026-08-11T14:10:56Z",
                 "owner": "jefflau",
                 "repo": "jest-fetch-mock",
-                "stars": 893
-              }
+                "stars": 894
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1580,7 +1679,8 @@
                 "owner": "suites-dev",
                 "repo": "suites",
                 "stars": 546
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1595,7 +1695,8 @@
                 "owner": "clarkbw",
                 "repo": "jest-localstorage-mock",
                 "stars": 319
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1610,7 +1711,8 @@
                 "owner": "hustcc",
                 "repo": "jest-canvas-mock",
                 "stars": 312
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1625,7 +1727,8 @@
                 "owner": "hustcc",
                 "repo": "jest-date-mock",
                 "stars": 267
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1640,7 +1743,8 @@
                 "owner": "evelynhathaway",
                 "repo": "jest-location-mock",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1655,7 +1759,8 @@
                 "owner": "bikk-uk",
                 "repo": "jest-mock-express",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1670,7 +1775,8 @@
                 "owner": "jorisre",
                 "repo": "jest-wake-lock-mock",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -1692,7 +1798,8 @@
                 "owner": "jest-community",
                 "repo": "jest-watch-typeahead",
                 "stars": 412
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1707,7 +1814,8 @@
                 "owner": "ericclemmons",
                 "repo": "node-recorder",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1722,7 +1830,8 @@
                 "owner": "jest-community",
                 "repo": "jest-watch-select-projects",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1737,7 +1846,8 @@
                 "owner": "rickhanlonii",
                 "repo": "jest-watch-master",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1752,7 +1862,8 @@
                 "owner": "cameronhunter",
                 "repo": "jest-watch-directories",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1767,7 +1878,8 @@
                 "owner": "cameronhunter",
                 "repo": "jest-watch-directories",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1782,7 +1894,8 @@
                 "owner": "cameronhunter",
                 "repo": "jest-watch-directories",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1797,7 +1910,8 @@
                 "owner": "unional",
                 "repo": "jest-watch-suspend",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1812,7 +1926,8 @@
                 "owner": "jest-community",
                 "repo": "jest-watch-toggle-config",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1827,7 +1942,8 @@
                 "owner": "unional",
                 "repo": "jest-watch-exec",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1842,7 +1958,8 @@
                 "owner": "cyberuni",
                 "repo": "jest-watch-repeat",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1857,7 +1974,8 @@
                 "owner": "unional",
                 "repo": "jest-watch-random",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1872,7 +1990,8 @@
                 "owner": "unional",
                 "repo": "jest-watch-continue",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -1890,11 +2009,12 @@
                 "archived": false,
                 "id": 66944590,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:09:03Z",
+                "last_commit": "2026-08-28T09:29:23Z",
                 "owner": "kulshekhar",
                 "repo": "ts-jest",
                 "stars": 7075
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1909,7 +2029,8 @@
                 "owner": "vuejs",
                 "repo": "vue-jest",
                 "stars": 752
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1920,11 +2041,12 @@
                 "archived": false,
                 "id": 109055226,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T21:03:30Z",
+                "last_commit": "2026-08-28T11:58:36Z",
                 "owner": "keplersj",
                 "repo": "jest-raw-loader",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1939,7 +2061,8 @@
                 "owner": "hustcc",
                 "repo": "jest-less-loader",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1954,7 +2077,8 @@
                 "owner": "denar90",
                 "repo": "jest-nunjucks",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1969,7 +2093,8 @@
                 "owner": "abiyasa",
                 "repo": "marko-jest",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1984,7 +2109,8 @@
                 "owner": "hustcc",
                 "repo": "jest-url-loader",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -1999,7 +2125,8 @@
                 "owner": "iketari",
                 "repo": "awesome-pug-jest",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -2021,7 +2148,8 @@
                 "owner": "argos-ci",
                 "repo": "jest-puppeteer",
                 "stars": 3544
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -2032,11 +2160,12 @@
                 "archived": false,
                 "id": 86746409,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:32:56Z",
+                "last_commit": "2026-08-28T18:43:54Z",
                 "owner": "thymikee",
                 "repo": "jest-preset-angular",
                 "stars": 920
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -2051,7 +2180,8 @@
                 "owner": "shelfio",
                 "repo": "jest-mongodb",
                 "stars": 602
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -2066,7 +2196,8 @@
                 "owner": "shelfio",
                 "repo": "jest-dynamodb",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -2081,7 +2212,8 @@
                 "owner": "geek-fun",
                 "repo": "jest-search",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -2096,7 +2228,8 @@
                 "owner": "shelfio",
                 "repo": "jest-elasticsearch",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             },
             {
               "node_type": "item",
@@ -2111,7 +2244,8 @@
                 "owner": "keplersj",
                 "repo": "jest-preset-gatsby",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -2133,7 +2267,8 @@
                 "owner": "egm0121",
                 "repo": "jest-test-gen",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -2155,7 +2290,8 @@
                 "owner": "nvh95",
                 "repo": "jest-preview",
                 "stars": 2393
-              }
+              },
+              "first_seen": "2026-08-28T23:25:57.653Z"
             }
           ],
           "description": null,
@@ -2181,7 +2317,8 @@
             "owner": "sapegin",
             "repo": "jest-cheat-sheet",
             "stars": 5421
-          }
+          },
+          "first_seen": "2026-08-28T23:25:57.653Z"
         },
         {
           "node_type": "item",
@@ -2196,7 +2333,8 @@
             "owner": "kentcdodds",
             "repo": "react-jest-workshop",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T23:25:57.653Z"
         },
         {
           "node_type": "item",
@@ -2211,14 +2349,15 @@
             "owner": "magicmark",
             "repo": "jest-how-do-i-mock-x",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T23:25:57.653Z"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:38:12.461Z",
+    "last_updated": "2026-08-28T23:25:57.653Z",
     "original_repository_info": {
       "archived": false,
       "id": 123143808,
