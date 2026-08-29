@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition",
+                "homepage": "https://emotion.sh/",
                 "id": 92570536,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:30:54Z",
+                "open_issues": 392,
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18021
+                "stars": 18020,
+                "topics": [
+                  "babel-plugin",
+                  "css",
+                  "css-in-js",
+                  "emotion",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -28,12 +40,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":owl: Custom jest matchers to test the state of the DOM",
+                "homepage": "https://testing-library.com/docs/ecosystem-jest-dom",
                 "id": 128778692,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-09T23:42:19Z",
+                "open_issues": 143,
                 "owner": "testing-library",
                 "repo": "jest-dom",
-                "stars": 4597
+                "stars": 4597,
+                "topics": [
+                  "custom-matcher",
+                  "dom",
+                  "dom-testing-library",
+                  "javascript",
+                  "jest",
+                  "jest-matchers",
+                  "jsdom",
+                  "react-testing-library",
+                  "testing",
+                  "testing-library",
+                  "testing-library-react"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -44,12 +73,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run tests using Jest & Puppeteer 🎪✨",
+                "homepage": null,
                 "id": 123703868,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-26T23:40:00Z",
+                "open_issues": 22,
                 "owner": "argos-ci",
                 "repo": "jest-puppeteer",
-                "stars": 3544
+                "stars": 3544,
+                "topics": [
+                  "chrome",
+                  "chromeless",
+                  "integration-testing",
+                  "jest",
+                  "jest-environment",
+                  "puppeteer"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -60,12 +101,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Additional Jest matchers 🃏💪",
+                "homepage": "https://jest-extended.jestcommunity.dev/",
                 "id": 106967896,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T17:35:08Z",
+                "open_issues": 122,
                 "owner": "jest-community",
                 "repo": "jest-extended",
-                "stars": 2350
+                "stars": 2350,
+                "topics": [
+                  "assertions",
+                  "extended",
+                  "jest",
+                  "matchers",
+                  "tdd",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -76,12 +129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom Jest matcher for aXe for testing accessibility ♿️🃏",
+                "homepage": null,
                 "id": 121313859,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T08:20:16Z",
+                "open_issues": 1,
                 "owner": "NickColley",
                 "repo": "jest-axe",
-                "stars": 1111
+                "stars": 1111,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -92,12 +150,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jasmine/Jest assertions for enzyme",
+                "homepage": null,
                 "id": 55644780,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-07T04:14:28Z",
+                "open_issues": 50,
                 "owner": "enzymejs",
                 "repo": "enzyme-matchers",
-                "stars": 886
+                "stars": 886,
+                "topics": [
+                  "enzyme",
+                  "jasmine",
+                  "jest",
+                  "tdd",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -108,12 +177,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦅 Custom jest matchers to test the state of React Native",
+                "homepage": "https://www.npm.im/@testing-library/jest-native",
                 "id": 179419190,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-05T10:25:56Z",
+                "open_issues": 7,
                 "owner": "testing-library",
                 "repo": "jest-native",
-                "stars": 439
+                "stars": 439,
+                "topics": [
+                  "custom-jest-matchers",
+                  "hacktoberfest",
+                  "javascript",
+                  "jest",
+                  "react-native",
+                  "reactjs",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -124,12 +206,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily run integration tests for your backends",
+                "homepage": "https://www.traceloop.com",
                 "id": 602739740,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-16T18:07:22Z",
+                "open_issues": 11,
                 "owner": "traceloop",
                 "repo": "jest-opentelemetry",
-                "stars": 255
+                "stars": 255,
+                "topics": [
+                  "api-testing",
+                  "e2e-testing",
+                  "integration-testing",
+                  "javascript",
+                  "jest",
+                  "open-telemetry",
+                  "otel",
+                  "reliability",
+                  "test-automation",
+                  "testing",
+                  "tracing",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -140,12 +240,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Jest or Chai to assert that HTTP responses satisfy an OpenAPI spec",
+                "homepage": null,
                 "id": 199614125,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T14:59:50Z",
+                "open_issues": 53,
                 "owner": "openapi-library",
                 "repo": "OpenAPIValidators",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "chai",
+                  "chai-plugin",
+                  "jest",
+                  "jest-tests",
+                  "openapi",
+                  "openapi-specification",
+                  "openapi-validation",
+                  "openapi3"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -156,12 +270,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curried Type Testing library, and Test Matchers for Jest",
+                "homepage": null,
                 "id": 100880498,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-16T23:22:04Z",
+                "open_issues": 8,
                 "owner": "JamieMason",
                 "repo": "expect-more",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "assert",
+                  "assertions",
+                  "expect",
+                  "jasmine",
+                  "jasmine-matchers",
+                  "jest",
+                  "jest-matchers",
+                  "matchers",
+                  "predicates",
+                  "property-based-testing",
+                  "test-matchers",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -172,12 +304,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ JSON schema matcher for Jest",
+                "homepage": null,
                 "id": 93082274,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-13T07:46:27Z",
+                "open_issues": 10,
                 "owner": "americanexpress",
                 "repo": "jest-json-schema",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "jest",
+                  "json",
+                  "json-schema",
+                  "matchers",
+                  "one-app",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -188,12 +332,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Testing generator function never been easy",
+                "homepage": "https://www.npmjs.com/package/jest-generator",
                 "id": 157502335,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-08T05:10:45Z",
+                "open_issues": 1,
                 "owner": "doniyor2109",
                 "repo": "jest-generator",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "assertions",
+                  "generator",
+                  "generator-function",
+                  "generator-functions",
+                  "generators",
+                  "jest",
+                  "jest-matchers",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -204,12 +362,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest matchers to work with JSON strings",
+                "homepage": null,
                 "id": 141628410,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-09T15:21:48Z",
+                "open_issues": 0,
                 "owner": "duailibe",
                 "repo": "jest-json",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "hacktoberfest",
+                  "javascript",
+                  "jest",
+                  "jest-matchers",
+                  "json",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -220,12 +390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test shell scripts while mocking specific commands",
+                "homepage": null,
                 "id": 164157781,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-01-12T00:40:19Z",
+                "open_issues": 1,
                 "owner": "raingerber",
                 "repo": "jest-shell-matchers",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -243,12 +418,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The optimal flow for Jest based testing in VS Code",
+                "homepage": null,
                 "id": 70403530,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-20T00:17:15Z",
+                "open_issues": 214,
                 "owner": "jest-community",
                 "repo": "vscode-jest",
-                "stars": 2890
+                "stars": 2890,
+                "topics": [
+                  "jest",
+                  "vscode",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -259,12 +443,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for Wallaby.js questions and issues",
+                "homepage": "http://wallabyjs.com",
                 "id": 27054264,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-01T05:30:42Z",
+                "open_issues": 151,
                 "owner": "wallabyjs",
                 "repo": "public",
-                "stars": 774
+                "stars": 774,
+                "topics": [
+                  "atom-editor",
+                  "ava",
+                  "bdd",
+                  "continuous-testing",
+                  "intellij",
+                  "jasmine",
+                  "javascript",
+                  "jest",
+                  "mocha",
+                  "nodejs",
+                  "sublime-text-3",
+                  "tdd",
+                  "test-coverage",
+                  "test-runner",
+                  "typescript",
+                  "visual-studio",
+                  "vscode",
+                  "vscode-extension",
+                  "wallaby",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -275,12 +485,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests with ease, right from your editor.",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner",
                 "id": 115735320,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T06:15:42Z",
+                "open_issues": 5,
                 "owner": "firsttris",
                 "repo": "vscode-jest-runner",
-                "stars": 301
+                "stars": 301,
+                "topics": [
+                  "bun",
+                  "debugging",
+                  "deno",
+                  "jest",
+                  "jest-tests",
+                  "nodejs",
+                  "playwright",
+                  "tdd",
+                  "test-automation",
+                  "testing",
+                  "testing-tools",
+                  "typescript",
+                  "vcode-api",
+                  "vitest",
+                  "vscode",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -291,12 +523,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neovim plugin to easily run and debug Jest tests",
+                "homepage": null,
                 "id": 384989484,
                 "language": "Lua",
+                "license": "Unlicense",
                 "last_commit": "2025-01-15T08:47:51Z",
+                "open_issues": 4,
                 "owner": "David-Kunz",
                 "repo": "jester",
-                "stars": 213
+                "stars": 213,
+                "topics": [
+                  "jest",
+                  "lua",
+                  "neovim",
+                  "nvim-dap",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -307,12 +550,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest extension for coc.nvim",
+                "homepage": null,
                 "id": 151262970,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-04-19T04:46:23Z",
+                "open_issues": 4,
                 "owner": "neoclide",
                 "repo": "coc-jest",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "coc",
+                  "jest",
+                  "neovim"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -330,12 +582,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin for Jest ",
+                "homepage": null,
                 "id": 110028636,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:31:05Z",
+                "open_issues": 22,
                 "owner": "jest-community",
                 "repo": "eslint-plugin-jest",
-                "stars": 1170
+                "stars": 1170,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "jest"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -346,12 +607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "eslint rules for use with jest-dom",
+                "homepage": null,
                 "id": 217930699,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-03T19:18:38Z",
+                "open_issues": 2,
                 "owner": "testing-library",
                 "repo": "eslint-plugin-jest-dom",
-                "stars": 369
+                "stars": 369,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -362,12 +628,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint rules for formatting test suites written for jest.",
+                "homepage": null,
                 "id": 178825065,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-21T17:46:55Z",
+                "open_issues": 5,
                 "owner": "dangreenisrael",
                 "repo": "eslint-plugin-jest-formatting",
-                "stars": 159
+                "stars": 159,
+                "topics": [
+                  "eslint-plugin",
+                  "jest"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -378,12 +652,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Eslint plugin for https://github.com/jest-community/jest-extended",
+                "homepage": null,
                 "id": 243358491,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:34:22Z",
+                "open_issues": 16,
                 "owner": "jest-community",
                 "repo": "eslint-plugin-jest-extended",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -401,12 +680,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ESLint runner for Jest",
+                "homepage": null,
                 "id": 102813161,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T15:57:08Z",
+                "open_issues": 38,
                 "owner": "jest-community",
                 "repo": "jest-runner-eslint",
-                "stars": 480
+                "stars": 480,
+                "topics": [
+                  "jest",
+                  "jest-runner-eslint",
+                  "watch-mode"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -417,12 +705,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jest runner that runs tests directly in bare Node.js, without virtualizing the environment.",
+                "homepage": null,
                 "id": 475103273,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-31T00:23:27Z",
+                "open_issues": 20,
                 "owner": "nicolo-ribaudo",
                 "repo": "jest-light-runner",
-                "stars": 242
+                "stars": 242,
+                "topics": [
+                  "esm",
+                  "javascript",
+                  "jest",
+                  "node",
+                  "test",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -433,12 +733,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🃏A Jest runner for the TypeScript compiler",
+                "homepage": null,
                 "id": 114766224,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-11-18T22:04:47Z",
+                "open_issues": 8,
                 "owner": "azz",
                 "repo": "jest-runner-tsc",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "jest",
+                  "tsc",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -449,12 +758,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A custom runner that allows to tag test files and run groups of tests with Jest.",
+                "homepage": null,
                 "id": 216564252,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-31T21:08:42Z",
+                "open_issues": 16,
                 "owner": "eugene-manuilov",
                 "repo": "jest-runner-groups",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -465,12 +779,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prettier runner for Jest",
+                "homepage": "https://keplersj.com/projects/jest-runner-prettier/",
                 "id": 110639656,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-26T16:40:33Z",
+                "open_issues": 20,
                 "owner": "keplersj",
                 "repo": "jest-runner-prettier",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "css",
+                  "flowtype",
+                  "graphql",
+                  "javascript",
+                  "jest",
+                  "json",
+                  "linter",
+                  "markdown",
+                  "prettier",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -481,12 +811,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest runner to test TypeScript typings",
+                "homepage": null,
                 "id": 273254333,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:13:30Z",
+                "open_issues": 15,
                 "owner": "jest-community",
                 "repo": "jest-runner-tsd",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -497,12 +832,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Mocha runner for Jest",
+                "homepage": null,
                 "id": 102137991,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-02-04T12:09:18Z",
+                "open_issues": 16,
                 "owner": "rogeliog",
                 "repo": "jest-runner-mocha",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "jest",
+                  "mocha"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -513,12 +856,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest TestRunner to run tests in Electron environment",
+                "homepage": null,
                 "id": 103008195,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-09-18T10:37:34Z",
+                "open_issues": 4,
                 "owner": "d4rkr00t",
                 "repo": "jest-electron-runner",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "jest",
+                  "jest-tests",
+                  "test-runner"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -529,12 +881,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stylelint runner for Jest",
+                "homepage": "https://keplersj.com/projects/jest-runner-stylelint/",
                 "id": 110639690,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-06-18T02:21:26Z",
+                "open_issues": 13,
                 "owner": "keplersj",
                 "repo": "jest-runner-stylelint",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "css",
+                  "jest",
+                  "less",
+                  "scss",
+                  "stylelint"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -552,12 +915,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌈 Reporter for jest test framework. 🌈",
+                "homepage": "https://hazyzh.github.io/report.html",
                 "id": 149831957,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T03:47:58Z",
+                "open_issues": 19,
                 "owner": "Hazyzh",
                 "repo": "jest-html-reporters",
-                "stars": 540
+                "stars": 540,
+                "topics": [
+                  "html-report",
+                  "jest",
+                  "jest-html-reporters",
+                  "jest-reporter",
+                  "jest-test",
+                  "reporter",
+                  "test",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -568,12 +945,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jest reporter that creates compatible junit xml files",
+                "homepage": null,
                 "id": 74174788,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T07:10:39Z",
+                "open_issues": 14,
                 "owner": "jest-community",
                 "repo": "jest-junit",
-                "stars": 502
+                "stars": 502,
+                "topics": [
+                  "javascript",
+                  "jest",
+                  "jest-junit",
+                  "jest-testresultsprocessor",
+                  "junit",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -584,12 +973,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest test results processor for generating a summary in HTML",
+                "homepage": null,
                 "id": 85297644,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-28T18:35:45Z",
+                "open_issues": 2,
                 "owner": "Hargne",
                 "repo": "jest-html-reporter",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "html-report",
+                  "jest",
+                  "processor",
+                  "reporter",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -600,12 +1000,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest HTML Reporter and Results Processor",
+                "homepage": "https://dkelosky.github.io/jest-stare/",
                 "id": 121054543,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:39:09Z",
+                "open_issues": 11,
                 "owner": "dkelosky",
                 "repo": "jest-stare",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "html-report",
+                  "jest",
+                  "mochawesome",
+                  "processor",
+                  "results",
+                  "results-viewer"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -616,12 +1028,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A silent reporter for Jest",
+                "homepage": null,
                 "id": 121517087,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-22T14:10:46Z",
+                "open_issues": 4,
                 "owner": "rickhanlonii",
                 "repo": "jest-silent-reporter",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "javascript",
+                  "jest",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -632,12 +1053,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Testomatio Reporter",
+                "homepage": null,
                 "id": 241091114,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-28T17:44:54Z",
+                "open_issues": 16,
                 "owner": "testomatio",
                 "repo": "reporter",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -648,12 +1074,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate Allure Report for jest. Allure Report, a flexible lightweight multi-language test report tool with the possibility to add steps, attachments, parameters and so on.",
+                "homepage": null,
                 "id": 134378301,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-07T09:36:56Z",
+                "open_issues": 35,
                 "owner": "zaqqaz",
                 "repo": "jest-allure",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "allure",
+                  "allure-report",
+                  "jest",
+                  "jest-reporter",
+                  "reporting",
+                  "tests"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -664,12 +1102,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Report jest test errors directly in pull requests",
+                "homepage": null,
                 "id": 202984528,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:45:59Z",
+                "open_issues": 23,
                 "owner": "hipstersmoothie",
                 "repo": "jest-github-reporter",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "github",
+                  "github-checks",
+                  "github-checks-api",
+                  "jest",
+                  "jest-reporter",
+                  "jest-result-processor"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -680,12 +1130,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command Line Dashboard for Jest",
+                "homepage": null,
                 "id": 111961542,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-01T12:27:35Z",
+                "open_issues": 11,
                 "owner": "theoutlander",
                 "repo": "jest-dashboard",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "dashboard",
+                  "jest",
+                  "jest-reporter",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -696,12 +1156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 111247529,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-05-30T16:25:01Z",
+                "open_issues": 2,
                 "owner": "jodonnell",
                 "repo": "jest-slow-test-reporter",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -712,12 +1177,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Observable Integration Testing using OpenTelemetry on top of Jest/Playwright/Cypress.",
+                "homepage": null,
                 "id": 728035376,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-09T13:09:51Z",
+                "open_issues": 1,
                 "owner": "mrasu",
                 "repo": "echoed",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "api",
+                  "api-testing",
+                  "cypress",
+                  "end-to-end-testing",
+                  "integration-testing",
+                  "jest",
+                  "opentelemetry",
+                  "playwright",
+                  "test",
+                  "testing",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -728,12 +1210,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest reporter that uses stdout for messages and stderr for errors",
+                "homepage": "https://www.npmjs.com/package/jest-standard-reporter",
                 "id": 169427854,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:09:46Z",
+                "open_issues": 19,
                 "owner": "chrisgalvan",
                 "repo": "jest-standard-reporter",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -744,12 +1233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualize and report jest test execution performance",
+                "homepage": null,
                 "id": 437277087,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-28T16:23:28Z",
+                "open_issues": 1,
                 "owner": "sholzmayer",
                 "repo": "jest-performance-reporter",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -760,12 +1254,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reporter allowing for fast and easy navigation through the logs produced by Jest in the Github Actions UI",
+                "homepage": null,
                 "id": 561526245,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-11T00:07:04Z",
+                "open_issues": 4,
                 "owner": "MatteoH2O1999",
                 "repo": "github-actions-jest-reporter",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "actions",
+                  "github-actions",
+                  "jest",
+                  "jest-reporter",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -776,12 +1281,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Progress bar reporter for Jest",
+                "homepage": null,
                 "id": 240036103,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T04:32:12Z",
+                "open_issues": 1,
                 "owner": "pierreroth64",
                 "repo": "jest-progress-bar-reporter",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "javascript",
+                  "jest",
+                  "nodejs",
+                  "progress-bar",
+                  "reporter"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -792,12 +1308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 125681918,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-23T14:04:06Z",
+                "open_issues": 0,
                 "owner": "rickhanlonii",
                 "repo": "jest-skipped-reporter",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -808,12 +1329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 111054024,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-06T14:51:25Z",
+                "open_issues": 1,
                 "owner": "jodonnell",
                 "repo": "jest-simple-dot-reporter",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -824,12 +1350,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom Jest reporter for Testrail synchronization",
+                "homepage": null,
                 "id": 329636512,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-09T09:23:45Z",
+                "open_issues": 0,
                 "owner": "AntonChaukin",
                 "repo": "testrail-jest-reporter",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -840,12 +1371,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jest reporter that groups console messages, allows filtering, and provides flexible display configuration options.",
+                "homepage": null,
                 "id": 726552661,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-02-25T22:09:04Z",
+                "open_issues": 1,
                 "owner": "Ashvin-Pal",
                 "repo": "jest-console-group-reporter",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "console",
+                  "group",
+                  "jest",
+                  "reporter"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -856,12 +1397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reports jest test suite progress information to the pipeline step in Azure DevOps.",
+                "homepage": null,
                 "id": 662330495,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-16T18:40:32Z",
+                "open_issues": 1,
                 "owner": "bashaus",
                 "repo": "jest-ado-reporter",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -872,12 +1418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jest reporter that highlights and ranks the slowest tests in your suite, enabling performance improvements and optimized test run times.",
+                "homepage": null,
                 "id": 675336545,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-10T18:10:18Z",
+                "open_issues": 0,
                 "owner": "Neizan93",
                 "repo": "jest-slow-test-highlighter",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -888,12 +1439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An xunit reporter for jest",
+                "homepage": null,
                 "id": 156801942,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-11-29T17:54:46Z",
+                "open_issues": 0,
                 "owner": "sscaff1",
                 "repo": "jest-xunit",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -904,12 +1460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest test results processor for sending a report on e-mail",
+                "homepage": null,
                 "id": 190776387,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-23T11:50:18Z",
+                "open_issues": 1,
                 "owner": "tglink",
                 "repo": "jest-email-reporter",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -920,12 +1481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest reporter to verify all essential Angular files have associated test files, ensuring comprehensive test coverage.",
+                "homepage": null,
                 "id": 675334929,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-09T11:55:23Z",
+                "open_issues": 0,
                 "owner": "Neizan93",
                 "repo": "jest-angular-test-verifier",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -936,12 +1502,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TSDoc Test Reporter is a test reporter that attaches TSDoc comments to your test results. It enables you to attach metadata to your unit tests in the form of comments.",
+                "homepage": "https://tsdoc-test-reporter.github.io/reporter/",
                 "id": 624991481,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-01T09:14:21Z",
+                "open_issues": 4,
                 "owner": "tsdoc-test-reporter",
                 "repo": "reporter",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "jest",
+                  "jest-reporter",
+                  "jsdoc",
+                  "jsdocs",
+                  "test-automation",
+                  "test-reporting",
+                  "testing-tools",
+                  "tsdoc",
+                  "tsdocs",
+                  "typescript",
+                  "vitest",
+                  "vitest-reporter"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -952,12 +1536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero dependency Jest spec reporter with CI-friendly output",
+                "homepage": null,
                 "id": 615412483,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-16T00:29:17Z",
+                "open_issues": 0,
                 "owner": "robertbradleyux",
                 "repo": "jest-ci-spec-reporter",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -968,12 +1557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jest reporter that treats all incomplete tests as WIP",
+                "homepage": null,
                 "id": 678283799,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-27T15:46:41Z",
+                "open_issues": 5,
                 "owner": "kevinrutherford",
                 "repo": "jest-wip-reporter",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -984,12 +1578,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tesults Jest Reporter",
+                "homepage": null,
                 "id": 265410293,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-03T10:03:17Z",
+                "open_issues": 1,
                 "owner": "tesults",
                 "repo": "jest-tesults-reporter",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -1007,12 +1606,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Zero config GUI for Jest",
+                "homepage": null,
                 "id": 112321084,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-05-03T14:54:05Z",
+                "open_issues": 50,
                 "owner": "Raathigesh",
                 "repo": "majestic",
-                "stars": 7452
+                "stars": 7452,
+                "topics": [
+                  "developer-experience",
+                  "developer-tools",
+                  "jest",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -1030,12 +1639,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run tests using Jest & Puppeteer 🎪✨",
+                "homepage": null,
                 "id": 123703868,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-26T23:40:00Z",
+                "open_issues": 22,
                 "owner": "argos-ci",
                 "repo": "jest-puppeteer",
-                "stars": 3544
+                "stars": 3544,
+                "topics": [
+                  "chrome",
+                  "chromeless",
+                  "integration-testing",
+                  "jest",
+                  "jest-environment",
+                  "puppeteer"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1046,12 +1667,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connect Jest tests to Selenium WebDriver",
+                "homepage": "https://alexeyraspopov.github.io/jest-webdriver",
                 "id": 118802847,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-08-13T20:40:13Z",
+                "open_issues": 5,
                 "owner": "alexeyraspopov",
                 "repo": "jest-webdriver",
-                "stars": 220
+                "stars": 220,
+                "topics": [
+                  "jest",
+                  "jest-environment",
+                  "jest-reporter",
+                  "selenium-webdriver"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1062,12 +1693,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom Jest environment that detects async leaks within tests and prevents flaky test failures.",
+                "homepage": null,
                 "id": 1132367054,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T01:16:27Z",
+                "open_issues": 5,
                 "owner": "stephan-dum",
                 "repo": "jest-doctor",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "detectopenhandles",
+                  "flaky-tests",
+                  "jest",
+                  "jest-doctor",
+                  "nodejs",
+                  "test-environment",
+                  "test-isolation",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -1085,12 +1730,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌐📈 Automatically bump up global Jest thresholds whenever coverage goes above them",
+                "homepage": "https://npm.im/jest-it-up",
                 "id": 259963301,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-17T18:56:50Z",
+                "open_issues": 6,
                 "owner": "rbardini",
                 "repo": "jest-it-up",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "coverage",
+                  "global",
+                  "jest",
+                  "test",
+                  "testing",
+                  "threshold"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1101,12 +1758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 294898586,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-12-24T21:38:33Z",
+                "open_issues": 3,
                 "owner": "Litee",
                 "repo": "jest-coverage-thresholds-bumper",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1117,12 +1779,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improve visibility and encourage progress towards your test coverage goals",
+                "homepage": "https://npm.im/@jobber/jest-a-coverage-slip-detector",
                 "id": 513446775,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-03T19:57:01Z",
+                "open_issues": 3,
                 "owner": "GetJobber",
                 "repo": "jest-a-coverage-slip-detector",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "bumper",
+                  "coverage",
+                  "jest",
+                  "ratchet",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -1140,12 +1813,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+                "homepage": "https://storybook.js.org",
                 "id": 54173593,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:09:18Z",
+                "open_issues": 1774,
                 "owner": "storybookjs",
                 "repo": "storybook",
-                "stars": 90957
+                "stars": 90958,
+                "topics": [
+                  "angular",
+                  "components",
+                  "design-systems",
+                  "documentation",
+                  "html",
+                  "javascript",
+                  "react",
+                  "react-native",
+                  "stories",
+                  "storybook",
+                  "styleguide",
+                  "svelte",
+                  "testing",
+                  "typescript",
+                  "ui",
+                  "vite",
+                  "vue",
+                  "web-components",
+                  "webpack",
+                  "workshop"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1156,12 +1855,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition",
+                "homepage": "https://emotion.sh/",
                 "id": 92570536,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:30:54Z",
+                "open_issues": 392,
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18021
+                "stars": 18020,
+                "topics": [
+                  "babel-plugin",
+                  "css",
+                  "css-in-js",
+                  "emotion",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1172,12 +1883,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ Jest matcher for image comparisons. Most commonly used for visual regression testing.",
+                "homepage": null,
                 "id": 95487541,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T17:49:22Z",
+                "open_issues": 42,
                 "owner": "americanexpress",
                 "repo": "jest-image-snapshot",
-                "stars": 3914
+                "stars": 3914,
+                "topics": [
+                  "image-comparisons",
+                  "image-snapshots",
+                  "jest",
+                  "jest-snapshots",
+                  "one-app",
+                  "snapshot",
+                  "testing",
+                  "visual-comparison-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1188,12 +1913,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔧 💅 Jest utilities for Styled Components",
+                "homepage": null,
                 "id": 85395980,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-29T22:16:53Z",
+                "open_issues": 5,
                 "owner": "styled-components",
                 "repo": "jest-styled-components",
-                "stars": 1580
+                "stars": 1580,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1204,12 +1934,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snapshot test your Enzyme wrappers",
+                "homepage": null,
                 "id": 67807611,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-27T09:53:57Z",
+                "open_issues": 22,
                 "owner": "adriantoine",
                 "repo": "enzyme-to-json",
-                "stars": 940
+                "stars": 940,
+                "topics": [
+                  "enzyme",
+                  "enzyme-helper",
+                  "enzyme-wrappers",
+                  "jest",
+                  "jest-serializer",
+                  "react",
+                  "serializer",
+                  "snapshot-testing",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1220,12 +1965,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Differencify is a library for visual regression testing",
+                "homepage": null,
                 "id": 94310798,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-02T12:59:51Z",
+                "open_issues": 27,
                 "owner": "NimaSoroush",
                 "repo": "differencify",
-                "stars": 638
+                "stars": 638,
+                "topics": [
+                  "headless-chrome",
+                  "jest",
+                  "nodejs",
+                  "puppeteer",
+                  "visual-regression-testing",
+                  "visual-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1236,12 +1993,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diffing snapshot utility for Jest",
+                "homepage": null,
                 "id": 98574889,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:16:06Z",
+                "open_issues": 20,
                 "owner": "jest-community",
                 "repo": "snapshot-diff",
-                "stars": 604
+                "stars": 604,
+                "topics": [
+                  "jest",
+                  "react",
+                  "snapshot",
+                  "snapshot-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1252,12 +2019,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Take a React component tree, and render it into an SVG.",
+                "homepage": null,
                 "id": 91681198,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-11-28T02:57:21Z",
+                "open_issues": 18,
                 "owner": "jest-community",
                 "repo": "jest-snapshots-svg",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1268,12 +2040,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An unopinionated JS/TS logging framework",
+                "homepage": null,
                 "id": 329063724,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-11-09T00:18:54Z",
+                "open_issues": 0,
                 "owner": "ivan7237d",
                 "repo": "1log",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "logging",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1284,12 +2064,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest matcher to write snapshots to a separate file instead of the default snapshot file used by Jest",
+                "homepage": null,
                 "id": 150905417,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-07-10T19:51:02Z",
+                "open_issues": 3,
                 "owner": "satya164",
                 "repo": "jest-file-snapshot",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "hacktoberfest",
+                  "jest",
+                  "snapshot-testing",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1300,12 +2090,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest snapshot serializer for ANSI escape sequences",
+                "homepage": null,
                 "id": 502801402,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T04:58:52Z",
+                "open_issues": 1,
                 "owner": "mrazauskas",
                 "repo": "jest-serializer-ansi-escapes",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "ansi",
+                  "escapes",
+                  "jest",
+                  "sequences",
+                  "serializer",
+                  "snapshots",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1316,12 +2119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add warnings to large snapshots!",
+                "homepage": "https://www.npmjs.com/package/jest-large-snapshot-warning",
                 "id": 192023869,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-04T00:41:23Z",
+                "open_issues": 13,
                 "owner": "jomaxx",
                 "repo": "jest-large-snapshot-warning",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1332,12 +2140,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A snapshot serializer for XML strings.",
+                "homepage": null,
                 "id": 121570282,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-18T02:34:09Z",
+                "open_issues": 7,
                 "owner": "keplersj",
                 "repo": "jest-serializer-xml",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "jest",
+                  "snapshot-testing",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1348,12 +2165,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest matcher for image comparisons using pixelmatch with all the goodness of Jest snapshots out of the box.",
+                "homepage": null,
                 "id": 130971529,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-07T08:38:28Z",
+                "open_issues": 3,
                 "owner": "donysukardi",
                 "repo": "jest-img-snapshot",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "jest",
+                  "snapshot",
+                  "visual-regression"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1364,12 +2190,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serializer to display React Helmet data in Jest Snapshots",
+                "homepage": null,
                 "id": 200909062,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2024-06-18T02:28:03Z",
+                "open_issues": 11,
                 "owner": "keplersj",
                 "repo": "jest-serializer-react-helmet",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "jest",
+                  "jest-snapshots",
+                  "react",
+                  "react-helmet",
+                  "seo",
+                  "side-effects",
+                  "snapshot-testing",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1380,12 +2220,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serializer to correctly display JSON-LD objects in Jest snapshots",
+                "homepage": null,
                 "id": 200909204,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2024-06-18T02:27:38Z",
+                "open_issues": 12,
                 "owner": "keplersj",
                 "repo": "jest-serializer-json-ld-script",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "jest",
+                  "jest-serializer",
+                  "jest-snapshots",
+                  "json-ld",
+                  "react",
+                  "react-helmet",
+                  "seo",
+                  "snapshot-testing",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -1403,12 +2258,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemods for migrating to Jest https://github.com/facebook/jest 👾",
+                "homepage": null,
                 "id": 68468109,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:58:20Z",
+                "open_issues": 35,
                 "owner": "skovhus",
                 "repo": "jest-codemods",
-                "stars": 888
+                "stars": 888,
+                "topics": [
+                  "ava",
+                  "chai",
+                  "codemod",
+                  "codemods",
+                  "jest",
+                  "jest-codemods",
+                  "jscodeshift",
+                  "mocha",
+                  "tape",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1419,12 +2290,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with superpowers 💪: built-in support of js, jsx, ts, markdown, yaml, toml, json and ignore. Write declarative codemods in a simplest possible way 😏",
+                "homepage": "https://putout.cloudcmd.io/",
                 "id": 159849469,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:42:54Z",
+                "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
-                "stars": 796
+                "stars": 796,
+                "topics": [
+                  "ast",
+                  "babel",
+                  "babel-plugin",
+                  "codemod",
+                  "codemods",
+                  "codeshift",
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-rules",
+                  "hacktoberfest",
+                  "javascript",
+                  "linter",
+                  "nodejs",
+                  "parser",
+                  "plugin",
+                  "putout",
+                  "putout-plugin",
+                  "recast",
+                  "static-code-analysis",
+                  "transform"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -1442,12 +2339,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Property based testing framework for JavaScript (like QuickCheck) written in TypeScript",
+                "homepage": "https://fast-check.dev/",
                 "id": 108920680,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T20:29:43Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:26:18Z",
+                "open_issues": 76,
                 "owner": "dubzzz",
                 "repo": "fast-check",
-                "stars": 5121
+                "stars": 5121,
+                "topics": [
+                  "faker",
+                  "fuzzing",
+                  "generative-testing",
+                  "property-based-testing",
+                  "quickcheck",
+                  "tdd",
+                  "testing",
+                  "typescript",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1458,12 +2370,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add custom message to Jest expects 🃏🗯",
+                "homepage": "https://www.npmjs.com/package/jest-expect-message",
                 "id": 143859459,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-17T07:01:04Z",
+                "open_issues": 12,
                 "owner": "mattphillips",
                 "repo": "jest-expect-message",
-                "stars": 370
+                "stars": 370,
+                "topics": [
+                  "custom",
+                  "expect",
+                  "jest",
+                  "message",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1474,12 +2397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wait for expectation to be true, useful for integration and end to end testing. Integral part of react-testing-library.",
+                "homepage": null,
                 "id": 126483195,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-08-01T11:32:23Z",
+                "open_issues": 10,
                 "owner": "TheBrainFamily",
                 "repo": "wait-for-expect",
-                "stars": 299
+                "stars": 299,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1490,12 +2418,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chain Jest matchers together to create one powerful assertion 🃏⛓",
+                "homepage": "https://www.npmjs.com/package/jest-chain",
                 "id": 131911897,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-09T08:38:47Z",
+                "open_issues": 3,
                 "owner": "mattphillips",
                 "repo": "jest-chain",
-                "stars": 273
+                "stars": 273,
+                "topics": [
+                  "assertions",
+                  "chain",
+                  "chainable",
+                  "dry",
+                  "expect",
+                  "expressive",
+                  "fail-fast",
+                  "jest",
+                  "matchers"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1506,12 +2449,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object oriented testing",
+                "homepage": "https://testdeck.github.io/docs/",
                 "id": 55495623,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-22T17:32:30Z",
+                "open_issues": 7,
                 "owner": "testdeck",
                 "repo": "testdeck",
-                "stars": 235
+                "stars": 235,
+                "topics": [
+                  "decorators",
+                  "dependency-injection",
+                  "ioc",
+                  "jasmine",
+                  "javascript",
+                  "jest",
+                  "mocha",
+                  "mocha-typescript",
+                  "oop",
+                  "parameterised-tests",
+                  "tdd",
+                  "tdd-interfaces",
+                  "testing",
+                  "testing-tools",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1522,12 +2486,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility to make jest tests fail when console.error() or any other methods are used",
+                "homepage": null,
                 "id": 327962407,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-12-16T15:53:01Z",
+                "open_issues": 2,
                 "owner": "ValentinH",
                 "repo": "jest-fail-on-console",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "jest"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1538,12 +2509,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snapshots language service support for Typescript",
+                "homepage": null,
                 "id": 108352452,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-30T02:28:49Z",
+                "open_issues": 21,
                 "owner": "asvetliakov",
                 "repo": "typescript-snapshots-plugin",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "jest",
+                  "jest-snapshots",
+                  "navigation",
+                  "snapshot",
+                  "snapshot-testing",
+                  "testing",
+                  "typescript",
+                  "typescript-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1554,12 +2539,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Babel Plugin that adds safety to your tests by verifying assertions are actually ran 🃏⁉️",
+                "homepage": "https://www.npmjs.com/package/babel-jest-assertions",
                 "id": 103391968,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-11T18:46:46Z",
+                "open_issues": 21,
                 "owner": "mattphillips",
                 "repo": "babel-jest-assertions",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "assertion",
+                  "babel",
+                  "babel-plugin",
+                  "jest",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1570,12 +2566,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jest plugin for creating screenshots of React components with a little help of Puppeteer",
+                "homepage": null,
                 "id": 120227541,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-01-05T21:40:37Z",
+                "open_issues": 2,
                 "owner": "macku",
                 "repo": "jest-puppe-shots",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "chrome",
+                  "css",
+                  "enzyme",
+                  "javascript",
+                  "jest",
+                  "jest-matchers",
+                  "js",
+                  "matcher",
+                  "puppet",
+                  "puppeteer",
+                  "react",
+                  "react-components",
+                  "screenshot",
+                  "snapshot",
+                  "testing",
+                  "unit-testing",
+                  "unittest",
+                  "visual-regression",
+                  "visual-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1586,12 +2607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A testdouble.js extension to add support for Jest module mocking",
+                "homepage": null,
                 "id": 121058508,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-06-02T08:57:04Z",
+                "open_issues": 3,
                 "owner": "testdouble",
                 "repo": "testdouble-jest",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1602,12 +2628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A jest plugin to ensure assertions happen within all tests at runtime",
+                "homepage": null,
                 "id": 179722760,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-04T03:34:25Z",
+                "open_issues": 4,
                 "owner": "ballercat",
                 "repo": "jest-plugin-must-assert",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1618,12 +2649,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allow to specify on which platform to run jest tests",
+                "homepage": null,
                 "id": 224487345,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-02-10T16:02:53Z",
+                "open_issues": 30,
                 "owner": "doctolib",
                 "repo": "jest-os-detection",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "jest",
+                  "jest-os-detection",
+                  "linux",
+                  "macos",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -1641,12 +2683,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type safe mocking extensions for Jest https://www.npmjs.com/package/jest-mock-extended",
+                "homepage": null,
                 "id": 221873890,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-20T15:53:14Z",
+                "open_issues": 35,
                 "owner": "marchaos",
                 "repo": "jest-mock-extended",
-                "stars": 906
+                "stars": 906,
+                "topics": [
+                  "calledwith",
+                  "jest",
+                  "mock",
+                  "mocking-framework",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1657,12 +2710,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest mock for fetch",
+                "homepage": null,
                 "id": 66015788,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T14:10:56Z",
+                "open_issues": 5,
                 "owner": "jefflau",
                 "repo": "jest-fetch-mock",
-                "stars": 894
+                "stars": 894,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1673,12 +2731,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A unit testing framework for TypeScript backends working with inversion of control and dependency injection",
+                "homepage": "https://suites.dev",
                 "id": 429476841,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T17:48:48Z",
+                "open_issues": 10,
                 "owner": "suites-dev",
                 "repo": "suites",
-                "stars": 546
+                "stars": 546,
+                "topics": [
+                  "dependency-injection",
+                  "inversifyjs",
+                  "inversion-of-control",
+                  "ioc",
+                  "ioc-container",
+                  "jest",
+                  "mock",
+                  "mocking",
+                  "nestjs",
+                  "sinon",
+                  "sinonjs",
+                  "spec",
+                  "tdd",
+                  "testing",
+                  "typescript",
+                  "unit-test",
+                  "unit-testing",
+                  "unit-testing-nodejs",
+                  "vitest"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1689,12 +2772,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A module to mock window.localStorage and window.sessionStorage in Jest",
+                "homepage": null,
                 "id": 90441810,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-09-27T09:18:10Z",
+                "open_issues": 8,
                 "owner": "clarkbw",
                 "repo": "jest-localstorage-mock",
-                "stars": 319
+                "stars": 319,
+                "topics": [
+                  "javascript",
+                  "jest",
+                  "jest-tests",
+                  "localstorage",
+                  "mock",
+                  "react",
+                  "sessionstorage",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1705,12 +2802,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":last_quarter_moon: A module used to mock canvas in Jest.",
+                "homepage": "https://github.com/hustcc/jest-canvas-mock",
                 "id": 115256317,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-09T13:33:37Z",
+                "open_issues": 20,
                 "owner": "hustcc",
                 "repo": "jest-canvas-mock",
-                "stars": 312
+                "stars": 312,
+                "topics": [
+                  "canvas",
+                  "ci",
+                  "echarts",
+                  "jest",
+                  "jest-test",
+                  "mock"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1721,12 +2830,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌗 Mock `Date` when run unit test cases with jest. Make tests of Date easier.",
+                "homepage": "https://github.com/hustcc/jest-date-mock",
                 "id": 135012697,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-21T01:52:01Z",
+                "open_issues": 1,
                 "owner": "hustcc",
                 "repo": "jest-date-mock",
-                "stars": 267
+                "stars": 267,
+                "topics": [
+                  "date",
+                  "datetime",
+                  "jest",
+                  "jest-date-mock",
+                  "jest-mock",
+                  "timestamp"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1737,12 +2858,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗺🧪 Jest hooks for JSDOM location mock",
+                "homepage": "https://npmjs.com/package/jest-location-mock",
                 "id": 305189220,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-17T05:36:09Z",
+                "open_issues": 4,
                 "owner": "evelynhathaway",
                 "repo": "jest-location-mock",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "jest",
+                  "jest-hooks",
+                  "jsdom",
+                  "location",
+                  "mock",
+                  "mocks",
+                  "url"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1753,12 +2887,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight Jest mock for unit testing Express",
+                "homepage": null,
                 "id": 216188950,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-17T09:48:28Z",
+                "open_issues": 10,
                 "owner": "bikk-uk",
                 "repo": "jest-mock-express",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1769,12 +2908,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mock Screen Wake Lock API `navigator.wakeLock` with ease and run your tests using Jest",
+                "homepage": "https://npm.im/jest-wake-lock-mock",
                 "id": 308973731,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-12-01T21:04:29Z",
+                "open_issues": 0,
                 "owner": "jorisre",
                 "repo": "jest-wake-lock-mock",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "jest",
+                  "mock",
+                  "nosleep",
+                  "test",
+                  "wakelock"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -1792,12 +2942,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest watch plugin for filtering test by file name or test name",
+                "homepage": null,
                 "id": 126561568,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T20:33:17Z",
+                "open_issues": 22,
                 "owner": "jest-community",
                 "repo": "jest-watch-typeahead",
-                "stars": 412
+                "stars": 412,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1808,12 +2963,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple recording & replaying of HTTP requests for predictable development & testing.",
+                "homepage": null,
                 "id": 172167801,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T03:19:09Z",
+                "open_issues": 34,
                 "owner": "ericclemmons",
                 "repo": "node-recorder",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1824,12 +2984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Select which Jest projects to run",
+                "homepage": null,
                 "id": 135388794,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-20T08:25:45Z",
+                "open_issues": 1,
                 "owner": "jest-community",
                 "repo": "jest-watch-select-projects",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1840,12 +3005,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest watch plugin for checking changes since master",
+                "homepage": null,
                 "id": 147959186,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-10-16T23:23:12Z",
+                "open_issues": 3,
                 "owner": "rickhanlonii",
                 "repo": "jest-watch-master",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1856,12 +3026,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest watch plugins to filter to directories, lerna packages, or yarn workspaces",
+                "homepage": null,
                 "id": 149922903,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-10-21T21:53:45Z",
+                "open_issues": 0,
                 "owner": "cameronhunter",
                 "repo": "jest-watch-directories",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "jest",
+                  "jest-plugin",
+                  "jest-watch-plugin",
+                  "lerna",
+                  "monorepo",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1872,12 +3054,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest watch plugins to filter to directories, lerna packages, or yarn workspaces",
+                "homepage": null,
                 "id": 149922903,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-10-21T21:53:45Z",
+                "open_issues": 0,
                 "owner": "cameronhunter",
                 "repo": "jest-watch-directories",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "jest",
+                  "jest-plugin",
+                  "jest-watch-plugin",
+                  "lerna",
+                  "monorepo",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1888,12 +3082,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest watch plugins to filter to directories, lerna packages, or yarn workspaces",
+                "homepage": null,
                 "id": 149922903,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-10-21T21:53:45Z",
+                "open_issues": 0,
                 "owner": "cameronhunter",
                 "repo": "jest-watch-directories",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "jest",
+                  "jest-plugin",
+                  "jest-watch-plugin",
+                  "lerna",
+                  "monorepo",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1904,12 +3110,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Suspending jest watch mode",
+                "homepage": null,
                 "id": 150067389,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-19T07:26:39Z",
+                "open_issues": 10,
                 "owner": "unional",
                 "repo": "jest-watch-suspend",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "jest",
+                  "jest-watch-plugin",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1920,12 +3135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest watch plugin for toggling boolean settings (e.g. verbosity, test coverage)",
+                "homepage": null,
                 "id": 140418520,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-16T09:53:27Z",
+                "open_issues": 2,
                 "owner": "jest-community",
                 "repo": "jest-watch-toggle-config",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1936,12 +3156,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Execute scripts during the watch cycle",
+                "homepage": null,
                 "id": 154758007,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-12-15T05:44:24Z",
+                "open_issues": 14,
                 "owner": "unional",
                 "repo": "jest-watch-exec",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "jest",
+                  "jest-watch-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1952,12 +3180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repeat test suite multiple times",
+                "homepage": null,
                 "id": 154241456,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T15:06:43Z",
+                "open_issues": 24,
                 "owner": "cyberuni",
                 "repo": "jest-watch-repeat",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1968,12 +3201,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jest watch plugin to randomly run some of the test suites",
+                "homepage": null,
                 "id": 196341475,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-19T07:26:32Z",
+                "open_issues": 28,
                 "owner": "unional",
                 "repo": "jest-watch-random",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "jest",
+                  "jest-watch-plugin",
+                  "testing",
+                  "tooling",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -1984,12 +3228,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run jest in continue mode",
+                "homepage": null,
                 "id": 197485722,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-19T07:26:29Z",
+                "open_issues": 20,
                 "owner": "unional",
                 "repo": "jest-watch-continue",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "jest",
+                  "jest-watch-plugin",
+                  "testing",
+                  "tooling",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -2007,12 +3262,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.",
+                "homepage": "https://kulshekhar.github.io/ts-jest",
                 "id": 66944590,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:29:23Z",
+                "open_issues": 83,
                 "owner": "kulshekhar",
                 "repo": "ts-jest",
-                "stars": 7075
+                "stars": 7075,
+                "topics": [
+                  "jest",
+                  "testing",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2023,12 +3287,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest Vue transformer",
+                "homepage": null,
                 "id": 102215356,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-29T21:59:49Z",
+                "open_issues": 138,
                 "owner": "vuejs",
                 "repo": "vue-jest",
-                "stars": 752
+                "stars": 752,
+                "topics": [
+                  "jest",
+                  "jest-vue",
+                  "vue-jest"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2039,12 +3312,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest transformer mimicking webpack-contrib/raw-loader's functionality",
+                "homepage": "https://keplersj.com/projects/jest-raw-loader/",
                 "id": 109055226,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:58:36Z",
+                "open_issues": 11,
                 "owner": "keplersj",
                 "repo": "jest-raw-loader",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "jest",
+                  "unit-testing",
+                  "webpack-contrib"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2055,12 +3337,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚛️ Jest transformer for .less file.",
+                "homepage": "https://github.com/hustcc/jest-less-loader",
                 "id": 227841154,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-09T05:33:39Z",
+                "open_issues": 0,
                 "owner": "hustcc",
                 "repo": "jest-less-loader",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "jest",
+                  "jest-loader",
+                  "jest-transformer",
+                  "less",
+                  "less-loader"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2071,12 +3364,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest processor that compiles nunjucks templates",
+                "homepage": null,
                 "id": 146210427,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-11-15T13:04:03Z",
+                "open_issues": 1,
                 "owner": "denar90",
                 "repo": "jest-nunjucks",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2087,12 +3385,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[DEPRECATED] Jest Marko transformer, import .marko files in jest tests",
+                "homepage": null,
                 "id": 110251780,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-05-15T16:03:36Z",
+                "open_issues": 8,
                 "owner": "abiyasa",
                 "repo": "marko-jest",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "behaviour-testing",
+                  "jest",
+                  "marko",
+                  "marko-jest",
+                  "snapshot-testing",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2103,12 +3413,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚛️ Similar with webpack's url-loader for Jest.",
+                "homepage": "https://github.com/hustcc/jest-url-loader",
                 "id": 227762982,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-09-06T08:43:39Z",
+                "open_issues": 0,
                 "owner": "hustcc",
                 "repo": "jest-url-loader",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "jest",
+                  "jest-loader",
+                  "jest-transformer",
+                  "url-loader"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2119,12 +3439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jest transform that compiles .pug files as template functions and includes pug utils",
+                "homepage": null,
                 "id": 124703207,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-01-03T12:35:00Z",
+                "open_issues": 0,
                 "owner": "iketari",
                 "repo": "awesome-pug-jest",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -2142,12 +3467,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run tests using Jest & Puppeteer 🎪✨",
+                "homepage": null,
                 "id": 123703868,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-26T23:40:00Z",
+                "open_issues": 22,
                 "owner": "argos-ci",
                 "repo": "jest-puppeteer",
-                "stars": 3544
+                "stars": 3544,
+                "topics": [
+                  "chrome",
+                  "chromeless",
+                  "integration-testing",
+                  "jest",
+                  "jest-environment",
+                  "puppeteer"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2158,12 +3495,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest configuration preset for Angular projects.",
+                "homepage": "https://thymikee.github.io/jest-preset-angular/",
                 "id": 86746409,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:43:54Z",
+                "open_issues": 30,
                 "owner": "thymikee",
                 "repo": "jest-preset-angular",
-                "stars": 920
+                "stars": 920,
+                "topics": [
+                  "angular",
+                  "jest",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2174,12 +3520,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest preset for MongoDB in-memory server",
+                "homepage": null,
                 "id": 121576862,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T15:56:45Z",
+                "open_issues": 36,
                 "owner": "shelfio",
                 "repo": "jest-mongodb",
-                "stars": 602
+                "stars": 602,
+                "topics": [
+                  "jest",
+                  "jest-environment",
+                  "jest-preset",
+                  "mongodb",
+                  "nodejs",
+                  "npm-package",
+                  "tests"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2190,12 +3549,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest preset for DynamoDB local server",
+                "homepage": null,
                 "id": 181049859,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:49:14Z",
+                "open_issues": 37,
                 "owner": "shelfio",
                 "repo": "jest-dynamodb",
-                "stars": 198
+                "stars": 198,
+                "topics": [
+                  "dynamodb",
+                  "jest",
+                  "jest-environment",
+                  "jest-preset",
+                  "nodejs",
+                  "npm-package",
+                  "tests"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2206,12 +3578,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest preset for running tests with local ElasticSearch, OpenSearch and ZincSearch.",
+                "homepage": "https://www.npmjs.com/package/@geek-fun/jest-search",
                 "id": 572982239,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-27T15:54:34Z",
+                "open_issues": 4,
                 "owner": "geek-fun",
                 "repo": "jest-search",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "elasticsearch",
+                  "elasticsearch-local",
+                  "es",
+                  "es-local",
+                  "integration-test",
+                  "jest",
+                  "jest-elasticsearch",
+                  "jest-environment",
+                  "jest-opensearch",
+                  "jest-preset",
+                  "jest-zincsearch",
+                  "opensearch",
+                  "opensearch-local",
+                  "tdd",
+                  "tdd-javascript",
+                  "tdd-typescript",
+                  "zincsearch",
+                  "zincsearch-local"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2222,12 +3618,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest preset for running tests with local ElasticSearch",
+                "homepage": null,
                 "id": 203760826,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T22:00:28Z",
+                "open_issues": 3,
                 "owner": "shelfio",
                 "repo": "jest-elasticsearch",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "elasticsearch",
+                  "jest",
+                  "jest-preset",
+                  "npm-package"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             },
@@ -2238,12 +3644,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Preset for testing Gatsby sites using Jest.",
+                "homepage": "https://keplersj.com/projects/jest-preset-gatsby",
                 "id": 200312070,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-21T12:33:29Z",
+                "open_issues": 12,
                 "owner": "keplersj",
                 "repo": "jest-preset-gatsby",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "gatsby",
+                  "jest",
+                  "react",
+                  "testing",
+                  "typescript",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -2261,12 +3679,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This tool will take a js/ts file as input and generate a jest unit test file next to it with all imports mocked and tests stubs for every class method and function exported.",
+                "homepage": null,
                 "id": 414010904,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-05T04:26:47Z",
+                "open_issues": 7,
                 "owner": "egm0121",
                 "repo": "jest-test-gen",
-                "stars": 187
+                "stars": 187,
+                "topics": [
+                  "es6-classes",
+                  "es6-modules",
+                  "jest",
+                  "scaffolding",
+                  "typescript",
+                  "unit-test",
+                  "unit-test-generator"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -2284,12 +3715,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Debug your Jest tests. Effortlessly.🛠🖼 ",
+                "homepage": "https://www.jest-preview.com",
                 "id": 472417882,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-25T15:08:05Z",
+                "open_issues": 50,
                 "owner": "nvh95",
                 "repo": "jest-preview",
-                "stars": 2393
+                "stars": 2393,
+                "topics": [
+                  "angular",
+                  "css",
+                  "debug",
+                  "frontend",
+                  "javascript",
+                  "jest",
+                  "jest-view-html",
+                  "nextjs",
+                  "productivity",
+                  "react",
+                  "svelte",
+                  "test",
+                  "testing",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
             }
@@ -2311,12 +3762,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jest cheat sheet",
+            "homepage": null,
             "id": 84238782,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-10-30T07:49:42Z",
+            "open_issues": 0,
             "owner": "sapegin",
             "repo": "jest-cheat-sheet",
-            "stars": 5421
+            "stars": 5421,
+            "topics": [
+              "cheatsheet",
+              "jest",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T23:25:57.653Z"
         },
@@ -2327,12 +3787,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 67323873,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-01-25T23:17:05Z",
+            "open_issues": 3,
             "owner": "kentcdodds",
             "repo": "react-jest-workshop",
-            "stars": 198
+            "stars": 198,
+            "topics": [
+              "kcd-edu"
+            ]
           },
           "first_seen": "2026-08-28T23:25:57.653Z"
         },
@@ -2343,12 +3810,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Runnable examples for common testing situations that often prove challenging",
+            "homepage": null,
             "id": 263504619,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-08-22T16:43:57Z",
+            "open_issues": 1,
             "owner": "magicmark",
             "repo": "jest-how-do-i-mock-x",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "javascript",
+              "jest",
+              "mock",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T23:25:57.653Z"
         }
@@ -2357,15 +3834,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:25:57.653Z",
+    "last_updated": "2026-08-29T04:30:57.693Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🕶Awesome Jest packages and resources ",
+      "homepage": "https://facebook.github.io/jest/",
       "id": 123143808,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-02-11T22:45:38Z",
+      "open_issues": 5,
       "owner": "jest-community",
       "repo": "awesome-jest",
-      "stars": 1549
+      "stars": 1549,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "javascript",
+        "jest"
+      ]
     },
     "original_repository_sha": "07df41832e393c767a0cee234409d0bcbd191479",
     "enhanced_repository": "enhansome/enhansome-jest",
