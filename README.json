@@ -49,7 +49,7 @@
                 "open_issues": 147,
                 "owner": "testing-library",
                 "repo": "jest-dom",
-                "stars": 4597,
+                "stars": 4596,
                 "topics": [
                   "custom-matcher",
                   "dom",
@@ -107,7 +107,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-21T17:16:23Z",
-                "open_issues": 124,
+                "open_issues": 123,
                 "owner": "jest-community",
                 "repo": "jest-extended",
                 "stars": 2349,
@@ -134,8 +134,8 @@
                 "id": 121313859,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T08:07:54Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-23T09:38:31Z",
+                "open_issues": 2,
                 "owner": "NickColley",
                 "repo": "jest-axe",
                 "stars": 1111,
@@ -398,7 +398,7 @@
                 "open_issues": 214,
                 "owner": "jest-community",
                 "repo": "vscode-jest",
-                "stars": 2889,
+                "stars": 2890,
                 "topics": [
                   "jest",
                   "vscode",
@@ -562,7 +562,7 @@
                 "open_issues": 25,
                 "owner": "jest-community",
                 "repo": "eslint-plugin-jest",
-                "stars": 1173,
+                "stars": 1174,
                 "topics": [
                   "eslint",
                   "eslint-plugin",
@@ -632,7 +632,7 @@
                 "open_issues": 19,
                 "owner": "jest-community",
                 "repo": "eslint-plugin-jest-extended",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
@@ -1029,8 +1029,8 @@
                 "id": 241091114,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-22T17:37:35Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-23T15:14:00Z",
+                "open_issues": 32,
                 "owner": "testomatio",
                 "repo": "reporter",
                 "stars": 152,
@@ -1686,6 +1686,48 @@
                 ]
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
+            },
+            {
+              "node_type": "item",
+              "title": "jest-environment-webgl-node",
+              "description": "Headless WebGL 1/2 environment for Jest, backed by ANGLE.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Jest environments for real headless WebGL and WebGPU in Node (Dawn and ANGLE)",
+                "homepage": null,
+                "id": 1380239110,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-23T13:43:50Z",
+                "open_issues": 0,
+                "owner": "bhouston",
+                "repo": "jest-gpu",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T18:16:57.152Z"
+            },
+            {
+              "node_type": "item",
+              "title": "jest-environment-webgpu-node",
+              "description": "Headless WebGPU environment for Jest, backed by Dawn.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Jest environments for real headless WebGL and WebGPU in Node (Dawn and ANGLE)",
+                "homepage": null,
+                "id": 1380239110,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-23T13:43:50Z",
+                "open_issues": 0,
+                "owner": "bhouston",
+                "repo": "jest-gpu",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T18:16:57.152Z"
             }
           ],
           "description": null,
@@ -2273,11 +2315,11 @@
                 "id": 108920680,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T20:17:29Z",
+                "last_commit": "2026-09-23T07:30:38Z",
                 "open_issues": 75,
                 "owner": "dubzzz",
                 "repo": "fast-check",
-                "stars": 5151,
+                "stars": 5153,
                 "topics": [
                   "faker",
                   "fuzzing",
@@ -3196,8 +3238,8 @@
                 "id": 66944590,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T12:20:39Z",
-                "open_issues": 81,
+                "last_commit": "2026-09-23T11:07:38Z",
+                "open_issues": 80,
                 "owner": "kulshekhar",
                 "repo": "ts-jest",
                 "stars": 7072,
@@ -3246,7 +3288,7 @@
                 "id": 109055226,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T21:17:07Z",
+                "last_commit": "2026-09-23T09:43:41Z",
                 "open_issues": 11,
                 "owner": "keplersj",
                 "repo": "jest-raw-loader",
@@ -3429,7 +3471,7 @@
                 "id": 86746409,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T11:49:55Z",
+                "last_commit": "2026-09-23T11:56:37Z",
                 "open_issues": 30,
                 "owner": "thymikee",
                 "repo": "jest-preset-angular",
@@ -3763,7 +3805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:59:10.340Z",
+    "last_updated": "2026-09-23T18:16:57.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Jest packages and resources ",
@@ -3771,7 +3813,7 @@
       "id": 123143808,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-21T18:25:40Z",
+      "last_commit": "2026-09-22T19:19:53Z",
       "open_issues": 5,
       "owner": "jest-community",
       "repo": "awesome-jest",
@@ -3783,7 +3825,7 @@
         "jest"
       ]
     },
-    "original_repository_sha": "7bc0d04aa3547c93b78822cbf80a26145dfe49aa",
+    "original_repository_sha": "80b6fed27fb8341e0317210af4fa56ff6389d776",
     "enhanced_repository": "enhansome/enhansome-jest",
     "enhanced_repository_description": null,
     "title": "Awesome Jest with stars"
