@@ -21,7 +21,7 @@
                 "open_issues": 396,
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18019,
+                "stars": 18018,
                 "topics": [
                   "babel-plugin",
                   "css",
@@ -558,7 +558,7 @@
                 "id": 110028636,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T19:15:06Z",
+                "last_commit": "2026-10-02T21:12:23Z",
                 "open_issues": 28,
                 "owner": "jest-community",
                 "repo": "eslint-plugin-jest",
@@ -656,7 +656,7 @@
                 "id": 102813161,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T00:06:53Z",
+                "last_commit": "2026-10-02T20:51:40Z",
                 "open_issues": 39,
                 "owner": "jest-community",
                 "repo": "jest-runner-eslint",
@@ -787,7 +787,7 @@
                 "id": 273254333,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T05:37:05Z",
+                "last_commit": "2026-10-02T22:59:12Z",
                 "open_issues": 15,
                 "owner": "jest-community",
                 "repo": "jest-runner-tsd",
@@ -1186,7 +1186,7 @@
                 "id": 169427854,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T20:16:45Z",
+                "last_commit": "2026-10-02T20:42:33Z",
                 "open_issues": 19,
                 "owner": "chrisgalvan",
                 "repo": "jest-standard-reporter",
@@ -1835,7 +1835,7 @@
                 "open_issues": 396,
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18019,
+                "stars": 18018,
                 "topics": [
                   "babel-plugin",
                   "css",
@@ -1863,7 +1863,7 @@
                 "open_issues": 42,
                 "owner": "americanexpress",
                 "repo": "jest-image-snapshot",
-                "stars": 3918,
+                "stars": 3917,
                 "topics": [
                   "image-comparisons",
                   "image-snapshots",
@@ -1969,7 +1969,7 @@
                 "id": 98574889,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:36:31Z",
+                "last_commit": "2026-10-02T20:56:33Z",
                 "open_issues": 20,
                 "owner": "jest-community",
                 "repo": "snapshot-diff",
@@ -2234,7 +2234,7 @@
                 "id": 68468109,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T03:55:18Z",
+                "last_commit": "2026-10-02T22:20:24Z",
                 "open_issues": 38,
                 "owner": "skovhus",
                 "repo": "jest-codemods",
@@ -2319,7 +2319,7 @@
                 "open_issues": 76,
                 "owner": "dubzzz",
                 "repo": "fast-check",
-                "stars": 5173,
+                "stars": 5175,
                 "topics": [
                   "faker",
                   "fuzzing",
@@ -3238,8 +3238,8 @@
                 "id": 66944590,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:24:37Z",
-                "open_issues": 78,
+                "last_commit": "2026-10-02T21:12:06Z",
+                "open_issues": 79,
                 "owner": "kulshekhar",
                 "repo": "ts-jest",
                 "stars": 7071,
@@ -3288,7 +3288,7 @@
                 "id": 109055226,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T06:08:03Z",
+                "last_commit": "2026-10-02T22:55:56Z",
                 "open_issues": 11,
                 "owner": "keplersj",
                 "repo": "jest-raw-loader",
@@ -3729,7 +3729,7 @@
         {
           "node_type": "item",
           "title": "Jest cheat sheet",
-          "description": ".",
+          "description": "sapegin/jest-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3754,7 +3754,7 @@
         {
           "node_type": "item",
           "title": "React Jest workshop",
-          "description": ".",
+          "description": "kentcdodds/react-jest-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3777,7 +3777,7 @@
         {
           "node_type": "item",
           "title": "Jest: How Do I Mock X",
-          "description": ".",
+          "description": "magicmark/jest-how-do-i-mock-x",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3805,7 +3805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:01:08.486Z",
+    "last_updated": "2026-10-03T04:54:26.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Jest packages and resources ",
