@@ -46,7 +46,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-09T23:42:19Z",
-                "open_issues": 149,
+                "open_issues": 151,
                 "owner": "testing-library",
                 "repo": "jest-dom",
                 "stars": 4599,
@@ -1030,10 +1030,10 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-10-05T11:27:15Z",
-                "open_issues": 36,
+                "open_issues": 35,
                 "owner": "testomatio",
                 "repo": "reporter",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:25:57.653Z"
@@ -2270,7 +2270,7 @@
                 "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
-                "stars": 795,
+                "stars": 796,
                 "topics": [
                   "ast",
                   "babel",
@@ -2315,11 +2315,11 @@
                 "id": 108920680,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T07:20:02Z",
-                "open_issues": 87,
+                "last_commit": "2026-10-06T16:35:23Z",
+                "open_issues": 86,
                 "owner": "dubzzz",
                 "repo": "fast-check",
-                "stars": 5182,
+                "stars": 5184,
                 "topics": [
                   "faker",
                   "fuzzing",
@@ -2711,7 +2711,7 @@
                 "open_issues": 14,
                 "owner": "suites-dev",
                 "repo": "suites-unit",
-                "stars": 546,
+                "stars": 547,
                 "topics": [
                   "dependency-injection",
                   "inversifyjs",
@@ -3242,7 +3242,7 @@
                 "open_issues": 77,
                 "owner": "kulshekhar",
                 "repo": "ts-jest",
-                "stars": 7071,
+                "stars": 7072,
                 "topics": [
                   "jest",
                   "testing",
@@ -3471,8 +3471,8 @@
                 "id": 86746409,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T22:40:40Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-06T15:10:10Z",
+                "open_issues": 32,
                 "owner": "thymikee",
                 "repo": "jest-preset-angular",
                 "stars": 919,
@@ -3805,7 +3805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:45:09.858Z",
+    "last_updated": "2026-10-06T19:19:24.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Jest packages and resources ",
