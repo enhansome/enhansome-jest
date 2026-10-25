@@ -21,7 +21,7 @@
                 "open_issues": 400,
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18019,
+                "stars": 18020,
                 "topics": [
                   "babel-plugin",
                   "css",
@@ -398,7 +398,7 @@
                 "open_issues": 214,
                 "owner": "jest-community",
                 "repo": "vscode-jest",
-                "stars": 2889,
+                "stars": 2890,
                 "topics": [
                   "jest",
                   "vscode",
@@ -423,7 +423,7 @@
                 "open_issues": 149,
                 "owner": "wallabyjs",
                 "repo": "public",
-                "stars": 775,
+                "stars": 774,
                 "topics": [
                   "atom-editor",
                   "ava",
@@ -1839,7 +1839,7 @@
                 "open_issues": 400,
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18019,
+                "stars": 18020,
                 "topics": [
                   "babel-plugin",
                   "css",
@@ -2319,11 +2319,11 @@
                 "id": 108920680,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T12:41:29Z",
-                "open_issues": 52,
+                "last_commit": "2026-10-25T06:17:24Z",
+                "open_issues": 54,
                 "owner": "dubzzz",
                 "repo": "fast-check",
-                "stars": 5214,
+                "stars": 5218,
                 "topics": [
                   "faker",
                   "fuzzing",
@@ -3242,8 +3242,8 @@
                 "id": 66944590,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T12:08:16Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-25T02:30:21Z",
+                "open_issues": 77,
                 "owner": "kulshekhar",
                 "repo": "ts-jest",
                 "stars": 7073,
@@ -3475,8 +3475,8 @@
                 "id": 86746409,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T15:50:29Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-25T16:08:36Z",
+                "open_issues": 29,
                 "owner": "thymikee",
                 "repo": "jest-preset-angular",
                 "stars": 917,
@@ -3746,7 +3746,7 @@
             "open_issues": 0,
             "owner": "sapegin",
             "repo": "jest-cheat-sheet",
-            "stars": 5413,
+            "stars": 5414,
             "topics": [
               "cheatsheet",
               "jest",
@@ -3809,7 +3809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:13:59.655Z",
+    "last_updated": "2026-10-25T17:26:38.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Jest packages and resources ",
