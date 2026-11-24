@@ -28,11 +28,11 @@
 
 ### Matchers
 
-* [@emotion/jest](https://github.com/emotion-js/emotion/tree/main/packages/jest) ⭐ 18,037 | 🐛 404 | 🌐 JavaScript | 📅 2026-10-23 Jest matcher for testing Emotion components.
-* [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) ⭐ 4,611 | 🐛 153 | 🌐 JavaScript | 📅 2026-11-19 Jest matchers to test the state of the DOM.
-* [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) ⭐ 3,543 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-26 Collection of matchers for Jest & Puppeteer.
-* [jest-extended](https://github.com/jest-community/jest-extended) ⭐ 2,348 | 🐛 125 | 🌐 TypeScript | 📅 2026-11-23 Adds additional matchers to core API making it easy to test everything.
-* [jest-axe](https://github.com/nickcolley/jest-axe) ⭐ 1,114 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-02 Jest matcher for [axe](https://github.com/dequelabs/axe-core) ⭐ 7,878 | 🐛 492 | 🌐 HTML | 📅 2026-11-23 for testing accessibility.
+* [@emotion/jest](https://github.com/emotion-js/emotion/tree/main/packages/jest) ⭐ 18,034 | 🐛 404 | 🌐 JavaScript | 📅 2026-10-23 Jest matcher for testing Emotion components.
+* [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) ⭐ 4,611 | 🐛 154 | 🌐 JavaScript | 📅 2026-11-19 Jest matchers to test the state of the DOM.
+* [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) ⭐ 3,542 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-26 Collection of matchers for Jest & Puppeteer.
+* [jest-extended](https://github.com/jest-community/jest-extended) ⭐ 2,348 | 🐛 124 | 🌐 TypeScript | 📅 2026-11-24 Adds additional matchers to core API making it easy to test everything.
+* [jest-axe](https://github.com/nickcolley/jest-axe) ⭐ 1,114 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-02 Jest matcher for [axe](https://github.com/dequelabs/axe-core) ⭐ 7,882 | 🐛 492 | 🌐 HTML | 📅 2026-11-23 for testing accessibility.
 * [jest-enzyme](https://github.com/FormidableLabs/enzyme-matchers/tree/master/packages/jest-enzyme) ⭐ 884 | 🐛 50 | 🌐 JavaScript | 📅 2024-03-07 An assertion library for enzyme.
 * [@traceloop/jest-opentelemetry](https://github.com/traceloop/jest-opentelemetry) ⭐ 254 | 🐛 11 | 🌐 JavaScript | 📅 2023-11-16 Collection of matchers and runner for end to end tests with Jest & OpenTelemetry.
 * [jest-openapi](https://github.com/openapi-library/OpenAPIValidators/tree/master/packages/jest-openapi) ⭐ 194 | 🐛 53 | 🌐 TypeScript | 📅 2023-03-04 Jest matchers for asserting that HTTP responses satisfy an [OpenAPI](https://swagger.io/docs/specification/about) spec.
@@ -46,20 +46,20 @@
 
 * [vscode-jest](https://github.com/jest-community/vscode-jest) ⭐ 2,891 | 🐛 214 | 🌐 TypeScript | 📅 2026-03-20 Works out of the box Jest based testing in VS Code.
 * [wallaby](https://github.com/wallabyjs/public) ⭐ 776 | 🐛 149 | 📅 2026-09-01 The pinnacle of the idea of a test runner integrated into an editor.
-* [vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) ⭐ 303 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-23 Simple way to run or debug one or more tests from context menu, codelens or command plalette.
+* [vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) ⭐ 303 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-23 Simple way to run or debug one or more tests from context menu, codelens or command plalette.
 * [jester](https://github.com/David-Kunz/jester) ⭐ 212 | 🐛 4 | 🌐 Lua | 📅 2025-01-15 A Neovim plugin to easily run and debug Jest tests.
-* [coc-jest](https://github.com/neoclide/coc-jest) ⭐ 51 | 🐛 4 | 🌐 TypeScript | 📅 2025-04-19 Jest plugin for [coc.nvim](https://github.com/neoclide/coc.nvim) ⭐ 25,135 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-23.
+* [coc-jest](https://github.com/neoclide/coc-jest) ⭐ 51 | 🐛 4 | 🌐 TypeScript | 📅 2025-04-19 Jest plugin for [coc.nvim](https://github.com/neoclide/coc.nvim) ⭐ 25,135 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-23.
 
 ### Linting
 
 * [eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest) ⭐ 1,174 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-23 ESLint plugin for Jest.
-* [eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom) ⭐ 371 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-20 ESLint plugin to follow best practices and anticipate common mistakes when writing tests with [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) ⭐ 4,611 | 🐛 153 | 🌐 JavaScript | 📅 2026-11-19.
+* [eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom) ⭐ 371 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-20 ESLint plugin to follow best practices and anticipate common mistakes when writing tests with [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) ⭐ 4,611 | 🐛 154 | 🌐 JavaScript | 📅 2026-11-19.
 * [eslint-plugin-jest-formatting](https://github.com/dangreenisrael/eslint-plugin-jest-formatting) ⭐ 159 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-06 ESLint plugin that aims to provide formatting rules (auto-fixable where possible) to ensure consistency and readability in jest test suites.
-* [eslint-plugin-jest-extended](https://github.com/jest-community/eslint-plugin-jest-extended) ⭐ 23 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-20 ESLint plugin for [jest-extended](https://github.com/jest-community/jest-extended) ⭐ 2,348 | 🐛 125 | 🌐 TypeScript | 📅 2026-11-23.
+* [eslint-plugin-jest-extended](https://github.com/jest-community/eslint-plugin-jest-extended) ⭐ 23 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-20 ESLint plugin for [jest-extended](https://github.com/jest-community/jest-extended) ⭐ 2,348 | 🐛 124 | 🌐 TypeScript | 📅 2026-11-24.
 
 ### Runners
 
-* [jest-runner-eslint](https://github.com/jest-community/jest-runner-eslint) ⭐ 478 | 🐛 39 | 🌐 JavaScript | 📅 2026-11-20 ESLint runner for Jest.
+* [jest-runner-eslint](https://github.com/jest-community/jest-runner-eslint) ⭐ 479 | 🐛 39 | 🌐 JavaScript | 📅 2026-11-20 ESLint runner for Jest.
 * [jest-light-runner](https://github.com/nicolo-ribaudo/jest-light-runner) ⭐ 240 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-14 Runner that runs tests directly in bare Node.js, without virtualizing the environment.
 * [jest-runner-tsc](https://github.com/azz/jest-runner-tsc) ⭐ 178 | 🐛 8 | 🌐 JavaScript | 📅 2020-11-18 A Jest runner for the TypeScript compiler.
 * [jest-runner-groups](https://github.com/eugene-manuilov/jest-runner-groups) ⚠️ Archived A runner that lets to group tests and to run groups separately.
@@ -76,7 +76,7 @@
 * [jest-html-reporter](https://github.com/Hargne/jest-html-reporter) ⭐ 287 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-03 A Jest test results processor for generating a summary in HTML.
 * [jest-stare](https://github.com/dkelosky/jest-stare) ⭐ 270 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-23 Configurable HTML reporter for filtering, side-by-side snapshot diffs, API, and simple CLI.
 * [jest-silent-reporter](https://github.com/rickhanlonii/jest-silent-reporter) ⭐ 158 | 🐛 4 | 🌐 JavaScript | 📅 2024-05-22 A silent reporter for Jest.
-* [testomatio-jest-reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Jest) ⭐ 154 | 🐛 10 | 🌐 JavaScript | 📅 2026-11-23 Allows to analyze Jest autotests, collect test metadata and report them to the testomat.io TCM system.
+* [testomatio-jest-reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Jest) ⭐ 154 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-23 Allows to analyze Jest autotests, collect test metadata and report them to the testomat.io TCM system.
 * [jest-allure](https://github.com/zaqqaz/jest-allure) ⭐ 118 | 🐛 35 | 🌐 TypeScript | 📅 2022-12-07 Add more power to your tests using Jest-Allure with very concise representation of what has been tested in a neat web report form.
 * [jest-github-reporter](https://github.com/hipstersmoothie/jest-github-reporter) ⭐ 106 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-24 Report jest test errors directly in pull requests.
 * [jest-dashboard](https://github.com/theoutlander/jest-dashboard) ⭐ 77 | 🐛 11 | 🌐 JavaScript | 📅 2023-03-01 Command line dashboard.
@@ -102,11 +102,11 @@
 
 ### Results Processors
 
-* [majestic](https://github.com/Raathigesh/majestic) ⭐ 7,436 | 🐛 50 | 🌐 TypeScript | 📅 2022-05-03 Zero config UI for Jest.
+* [majestic](https://github.com/Raathigesh/majestic) ⭐ 7,435 | 🐛 50 | 🌐 TypeScript | 📅 2022-05-03 Zero config UI for Jest.
 
 ### Environments
 
-* [jest-environment-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-environment-puppeteer) ⭐ 3,543 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-26 Puppeteer environment for Jest.
+* [jest-environment-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-environment-puppeteer) ⭐ 3,542 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-26 Puppeteer environment for Jest.
 * [jest-environment-webdriver](https://github.com/alexeyraspopov/jest-webdriver) ⭐ 221 | 🐛 5 | 🌐 JavaScript | 📅 2019-08-13 custom environment for WebDriver integration.
 * [jest-doctor](https://github.com/stephan-dum/jest-doctor/tree/main/packages/jest-doctor) ⭐ 11 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-19 Async leak detection and preventions.
 * [jest-environment-webgl-node](https://github.com/bhouston/jest-gpu/tree/main/packages/jest-environment-webgl-node) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08 Headless WebGL 1/2 environment for Jest, backed by ANGLE.
@@ -120,7 +120,7 @@
 
 ### Snapshot
 
-* [@emotion/jest](https://github.com/emotion-js/emotion/tree/main/packages/jest) ⭐ 18,037 | 🐛 404 | 🌐 JavaScript | 📅 2026-10-23 Include Emotion styles in component snapshots.
+* [@emotion/jest](https://github.com/emotion-js/emotion/tree/main/packages/jest) ⭐ 18,034 | 🐛 404 | 🌐 JavaScript | 📅 2026-10-23 Include Emotion styles in component snapshots.
 * [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) ⭐ 3,919 | 🐛 44 | 🌐 JavaScript | 📅 2026-11-01 Take a snapshot test of an image buffer, and catch when the image changes over a threshold. Commonly used for visual regression testing.
 * [jest-styled-components](https://github.com/styled-components/jest-styled-components) ⭐ 1,577 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-07 A set of utilities for testing Styled Components with Jest.
 * [enzyme-to-json](https://github.com/adriantoine/enzyme-to-json) ⭐ 940 | 🐛 22 | 🌐 JavaScript | 📅 2026-01-27 Convert Enzyme wrappers to a format compatible with Jest snapshot testing.
@@ -143,15 +143,15 @@
 
 ### Library extensions
 
-* [@fast-check/jest](https://github.com/dubzzz/fast-check/tree/main/packages/jest) ⭐ 5,306 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-23 Bring property based testing (aka fuzzing) into Jest.
+* [@fast-check/jest](https://github.com/dubzzz/fast-check/tree/main/packages/jest) ⭐ 5,313 | 🐛 57 | 🌐 TypeScript | 📅 2026-11-24 Bring property based testing (aka fuzzing) into Jest.
 * [jest-expect-message](https://github.com/mattphillips/jest-expect-message) ⭐ 368 | 🐛 12 | 🌐 JavaScript | 📅 2024-07-17 Add custom message to Jest expects.
 * [wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) ⭐ 299 | 🐛 10 | 🌐 TypeScript | 📅 2025-08-01 A await/async function to wait a expect. Useful on e2e test.
 * [jest-chain](https://github.com/mattphillips/jest-chain) ⭐ 273 | 🐛 3 | 🌐 JavaScript | 📅 2023-01-09 Chain Jest matchers together to create one powerful assertion.
 * [@testdeck/jest](https://github.com/testdeck/testdeck) ⭐ 235 | 🐛 7 | 🌐 TypeScript | 📅 2025-01-22 Decorator based wrapper around Jest for object oriented testing. Checkout the [documentation](https://testdeck.github.io/docs/) and a working [seed](https://github.com/testdeck/testdeck-jest-seed) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2020-11-19 for you to start with.
 * [jest-fail-on-console](https://github.com/ValentinH/jest-fail-on-console) ⭐ 156 | 🐛 2 | 🌐 JavaScript | 📅 2025-12-16 Utility to fail a test when `console.error()` (or any other method of the console) gets called.
 * [typescript-snapshots-plugin](https://github.com/asvetliakov/typescript-snapshots-plugin) ⭐ 130 | 🐛 21 | 🌐 TypeScript | 📅 2024-05-30 Extends the TypeScript dev server to support hovering and jumping to a snapshot.
-* [babel-jest-assertions](https://github.com/mattphillips/babel-jest-assertions) ⭐ 94 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-11 Babel plugin that automatically adds the number of assertions found in each test with `expect.assertions(n)` and `expect.hasAssertions()`.
-* [jest-puppe-shots](https://github.com/macku/jest-puppe-shots) ⭐ 84 | 🐛 2 | 🌐 JavaScript | 📅 2020-01-05 A Jest plugin for creating screenshots of [React](https://reactjs.org) components with a little help of [Puppeteer](https://github.com/puppeteer/puppeteer) ⭐ 95,895 | 🐛 204 | 🌐 TypeScript | 📅 2026-11-23.
+* [babel-jest-assertions](https://github.com/mattphillips/babel-jest-assertions) ⭐ 95 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-11 Babel plugin that automatically adds the number of assertions found in each test with `expect.assertions(n)` and `expect.hasAssertions()`.
+* [jest-puppe-shots](https://github.com/macku/jest-puppe-shots) ⭐ 84 | 🐛 2 | 🌐 JavaScript | 📅 2020-01-05 A Jest plugin for creating screenshots of [React](https://reactjs.org) components with a little help of [Puppeteer](https://github.com/puppeteer/puppeteer) ⭐ 95,898 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-24.
 * [testdouble-jest](https://github.com/testdouble/testdouble-jest) ⭐ 37 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-04 Support for [testdouble.js](https://github.com/testdouble/testdouble.js) ⭐ 1,425 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-04 for users of Jest.
 * [jest-plugin-must-assert](https://github.com/ballercat/jest-plugin-must-assert) ⭐ 26 | 🐛 4 | 🌐 JavaScript | 📅 2023-03-04 A Jest plugin for strict runtime checks. Fails any tests without assertions and prevents async tasks (Promises & timeouts) from leaking across tests.
 * [jest-os-detection](https://github.com/doctolib/jest-os-detection) ⭐ 14 | 🐛 30 | 🌐 TypeScript | 📅 2025-02-10 Dynamically enable or skip tests based on the OS they run on so you can share the same test suite across various platforms.
@@ -160,7 +160,7 @@
 
 * [jest-mock-extended](https://github.com/marchaos/jest-mock-extended) ⭐ 908 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-08 Create Typesafe mocks for TS interfaces and objects as well as returning argument specific return values.
 * [jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) ⭐ 893 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-13 Easily mock out `fetch` and set up responses, powered by [Jest mock functions](https://jestjs.io/docs/mock-functions).
-* [Suites](https://github.com/suites-dev/suites) ⭐ 546 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-23 Unit-testing framework for TypeScript backends with inversion of control and dependency injection that automatically generates type-safe mocks.
+* [Suites](https://github.com/suites-dev/suites) ⭐ 546 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-24 Unit-testing framework for TypeScript backends with inversion of control and dependency injection that automatically generates type-safe mocks.
 * [jest-localstorage-mock](https://github.com/clarkbw/jest-localstorage-mock) ⭐ 318 | 🐛 8 | 🌐 JavaScript | 📅 2024-09-27 A module to mock window\.localStorage and window\.sessionStorage in Jest.
 * [jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock) ⭐ 313 | 🐛 20 | 🌐 JavaScript | 📅 2026-07-09 Mock canvas when run unit test cases with jest.
 * [jest-date-mock](https://github.com/hustcc/jest-date-mock) ⭐ 267 | 🐛 1 | 🌐 JavaScript | 📅 2024-04-21 Mock `window.Date` when run unit test cases with jest. Make tests of Date easier.
@@ -186,8 +186,8 @@
 
 ### Processor
 
-* [ts-jest](https://github.com/kulshekhar/ts-jest) ⭐ 7,071 | 🐛 81 | 🌐 TypeScript | 📅 2026-11-23 TypeScript preprocessor with sourcemap support.
-* [vue-jest](https://github.com/vuejs/vue-jest) ⭐ 750 | 🐛 140 | 🌐 JavaScript | 📅 2024-01-29 Vue transformer with source map support.
+* [ts-jest](https://github.com/kulshekhar/ts-jest) ⭐ 7,070 | 🐛 77 | 🌐 TypeScript | 📅 2026-11-24 TypeScript preprocessor with sourcemap support.
+* [vue-jest](https://github.com/vuejs/vue-jest) ⭐ 749 | 🐛 140 | 🌐 JavaScript | 📅 2024-01-29 Vue transformer with source map support.
 * [jest-raw-loader](https://github.com/keplersj/jest-raw-loader) ⭐ 34 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-22 Processor mimicking `webpack`'s `raw-loader`.
 * [jest-less-loader](https://github.com/hustcc/jest-less-loader) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2023-01-09 Jest transformer for `.less` file.
 * [jest-nunjucks](https://github.com/denar90/jest-nunjucks) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2018-11-15 Processor that compiles nunjucks templates.
@@ -197,7 +197,7 @@
 
 ### Presets
 
-* [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) ⭐ 3,543 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-26 A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.
+* [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) ⭐ 3,542 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-26 A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.
 * [jest-preset-angular](https://github.com/thymikee/jest-preset-angular) ⭐ 916 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-23 Jest preset for [Angular](https://angular.io) projects.
 * [jest-mongodb](https://github.com/shelfio/jest-mongodb) ⭐ 602 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-17 Jest preset for working with MongoDB.
 * [jest-dynamodb](https://github.com/shelfio/jest-dynamodb) ⭐ 198 | 🐛 37 | 🌐 TypeScript | 📅 2026-11-16 Jest preset for working with DynamoDB.
